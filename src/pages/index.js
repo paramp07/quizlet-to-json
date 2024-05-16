@@ -49,16 +49,17 @@ export default function Home() {
       <Header />
       <Main />
       <footer className="max-w-4xl mx-auto text-sm px-6 py-14 space-y-2">
-        <p className="text-lg font-bold">
-          Disclaimer 
-           
-        </p>
+        <p className="text-lg font-bold">Disclaimer</p>
         <p>This website is not affiliated with or endorsed by Quizlet.</p>
-        <p>Our use of the name "Quizlet" is for context, not claiming any
-          ownership. It remains the property of the copyright holder.</p>
-        <p>quizlet-to-json.vercel.app doesn't host any copyrighted material. We utilize
-          third-party services to accomplish our goals.</p>
-          <p className="text-lg">© 2024 quizlet-to-json.vercel.app</p>
+        <p>
+          Our use of the name "Quizlet" is for context, not claiming any
+          ownership. It remains the property of the copyright holder.
+        </p>
+        <p>
+          quizlet-to-json.vercel.app doesn&apos;t host any copyrighted material.
+          We utilize third-party services to accomplish our goals.
+        </p>
+        <p className="text-lg">© 2024 quizlet-to-json.vercel.app</p>
       </footer>
     </div>
   );
