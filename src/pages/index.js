@@ -8,6 +8,7 @@ import {
   TooltipProvider,
   TooltipTrigger,
 } from "@/components/ui/tooltip";
+import Head from "next/head";
 
 export default function Home() {
   const [url, setUrl] = useState("");
@@ -46,7 +47,10 @@ export default function Home() {
   };
 
   return (
-    <div className="h-screen bg-neutral-900 text-quizlet-white">
+    <div className="h-screen  text-quizlet-white">
+      <Head>
+        <title>Quizlet to JSON</title>
+      </Head>
       <nav className="bg-neutral-800 flex items-center px-5 py-4">
         <IoMdDocument color="#4255FF" size={28} />
         <h1 className="text-quizlet-white text-xl font-bold ml-2">

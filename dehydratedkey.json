@@ -1,0 +1,3414 @@
+{
+  "siteNav": {
+    "activityCenterPendingNotifications": 0,
+    "canCreateClass": false,
+    "canCreateNotes": false,
+    "classMemberships": [],
+    "isClassProgressUpsellModalOpen": false,
+    "isCreateClassModalOpen": false,
+    "isCreateFolderModalOpen": false,
+    "isCreateImageSetUpsellModalOpen": false,
+    "isCreateSetModalOpen": false,
+    "isMobileNavOpen": false,
+    "isSideNavOpen": true,
+    "magicLinkTriggeredByFacebookLoginClick": false,
+    "onboardingFlow": null,
+    "openedAuthModal": null,
+    "practiceTestsEligibility": null,
+    "userSchools": {},
+    "bookmarkedFolders": [],
+    "user": null,
+    "userPurchasesCount": 0
+  },
+  "login": {
+    "form": {
+      "password": "",
+      "username": ""
+    },
+    "hasMultipleAccounts": false,
+    "numFailedAttempts": 0,
+    "openedAuthModal": null,
+    "validationErrorsByInputName": {
+      "generic": []
+    },
+    "wasSubmitted": false,
+    "magicLinkUsername": "",
+    "redir": ""
+  },
+  "core": {
+    "acknowledgedOnboardingSteps": {},
+    "shouldShowAd": false,
+    "user": null,
+    "isBrowseNavOpen": false
+  },
+  "edgyData": {
+    "courses": {
+      "ids": [],
+      "entities": {},
+      "initialIds": null,
+      "codeEnrollments": null,
+      "departments": []
+    },
+    "isCoursesLoading": false,
+    "hasDismissedEdgyDataEmptyState": false,
+    "isConfirmRemoveSchoolModalOpen": false,
+    "isEdgyDataModalOpen": false,
+    "isNotesCourseModalOpen": false,
+    "isNativeAppWebView": false,
+    "maxNumOfCourses": 50,
+    "schools": {
+      "selectedSchool": null,
+      "userCountryCode": null,
+      "initialSchool": null
+    },
+    "shouldRedirectOnEnd": true,
+    "shouldShowEdgyData": true,
+    "startScreen": "collect_school",
+    "user": null
+  },
+  "userPrompts": {
+    "canResendConfirmationEmail": false,
+    "formattedTeacherUpsellMonthlyPrice": "",
+    "hasExceededMaxConfirmationEmailResends": false,
+    "requestUri": "",
+    "shouldShowConfirmEmailPrompt": false,
+    "supportEmail": "",
+    "isConfirmEmailModalOpen": false,
+    "isTeacherUpsellModalOpen": false
+  },
+  "setPage": {
+    "alphabeticalIsDifferent": true,
+    "alphabeticalOrder": [
+      19586450615,
+      19586409156,
+      19586398743,
+      19586390772,
+      19586453062,
+      19586401218,
+      19586430704,
+      19586449415,
+      19586437768,
+      19586395239,
+      19586396113,
+      19586433352,
+      19586446849,
+      19586389507,
+      19586428006,
+      19586412544,
+      19586417691,
+      19586444771,
+      19586439743,
+      19586410069
+    ],
+    "adminToolsData": null,
+    "breadcrumbs": null,
+    "canCopySet": false,
+    "canCreateClass": false,
+    "canEditRichText": false,
+    "canEditSet": false,
+    "canExportSet": false,
+    "classesToAddSetTo": [],
+    "classProgressUpsellModalShowCount": null,
+    "countryCodeSubfolder": null,
+    "creator": {
+      "id": 115776700,
+      "username": "belovedstars",
+      "timestamp": 1549601169,
+      "lastModified": 1675376312,
+      "type": 0,
+      "isLocked": false,
+      "selfIdentifiedTeacherStatus": 2,
+      "_imageUrl": "https://assets.quizlet.com/a/j/dist/app/i/animals/111.f9dd73353feb908.jpg",
+      "timeZone": "America/Los_Angeles",
+      "firstName": "Sandra",
+      "lastName": "C",
+      "isAdmin": false
+    },
+    "crossModeResetTimestamp": null,
+    "currentPersonId": null,
+    "diagramImage": null,
+    "displayCreatedAtDateVariant": null,
+    "diagramShapes": null,
+    "dwebSidebarButtonsVariant": "control",
+    "onboardingSteps": {
+      "firstSetSave": false,
+      "shouldShowAddToClassPopover": false,
+      "isEligibleToSeeTeacherOnboardingPreviewCard": false
+    },
+    "educationQAndAData": {
+      "@context": "https://schema.org/",
+      "@type": "Quiz",
+      "about": {
+        "@type": "Thing",
+        "name": "Chapter 54. Underscoring Meaning: Williams and Music for Film"
+      },
+      "hasPart": [
+        {
+          "@context": "https://schema.org/",
+          "@type": "Question",
+          "eduQuestionType": "Flashcard",
+          "text": "What are the two main types of film music?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "source music\nunderscoring"
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Question",
+          "eduQuestionType": "Flashcard",
+          "text": "In the movie Jaws, the shark is represented by a two-note oscillating motive.",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "True"
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Question",
+          "eduQuestionType": "Flashcard",
+          "text": "&quot;Running counter to the action&quot; is a technique that composers use to supply irony in film music.",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "True"
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Question",
+          "eduQuestionType": "Flashcard",
+          "text": "Source music refers to music that functions as part of the drama itself, such as a character turning on a radio.",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "True"
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Question",
+          "eduQuestionType": "Flashcard",
+          "text": "In order to associate the music with a character, John Williams utilizes - in his film music.",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "leitmotifs"
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Question",
+          "eduQuestionType": "Flashcard",
+          "text": "John Williams&#039;s Imperial March has also been used for -\n events between rival teams and even as a popular -",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "sporting \nringtone"
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Question",
+          "eduQuestionType": "Flashcard",
+          "text": "Film music always matches the mood of the action on the screen.",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "False"
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Question",
+          "eduQuestionType": "Flashcard",
+          "text": "Who wrote the score for the Lord of the Rings trilogy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Howard Shore"
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Question",
+          "eduQuestionType": "Flashcard",
+          "text": "Which are true about John Williams and his career?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "He began composing for television in the 1950s.\nHe wrote Barack Obama&#039;s inauguration music.\nHe wrote the music for Home Alone."
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Question",
+          "eduQuestionType": "Flashcard",
+          "text": "Which best describe the musical characteristics of the opening theme of John Williams&#039;s Imperial March from Star Wars?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "disjunct melody\nminor tonality\nrepeated rhythmic ostinati"
+          }
+        }
+      ]
+    },
+    "embedInfoByMode": [
+      {
+        "displayName": "Match",
+        "modeType": 5
+      },
+      {
+        "displayName": "Learn",
+        "modeType": 17
+      },
+      {
+        "displayName": "Test",
+        "modeType": 3
+      },
+      {
+        "displayName": "Flashcards",
+        "modeType": 2
+      },
+      {
+        "displayName": "Spell",
+        "modeType": 8
+      }
+    ],
+    "expertExplanationsModalVariant": null,
+    "expertVerifiedQuestions": [],
+    "explanationsSolutionsAmount": 1000000,
+    "folder": null,
+    "foldersToAddSetTo": [],
+    "funnelUUID": "1978aae1-91ee-4453-8cdd-998551106aef",
+    "hasAdvancedDiagramShapes": false,
+    "hasAnyAnswers": false,
+    "hasBeenShownStudyOnboarding": false,
+    "hasClasses": false,
+    "hasCustomAudio": false,
+    "hasDiagramWithMorePointsThanFreeLimit": false,
+    "isFirstCreatedSetModalOpen": false,
+    "isInTeacherSetPageNavigationV2": false,
+    "hasRichText": false,
+    "hasUploadedImage": false,
+    "includedInFolder": null,
+    "isAdsInCardsPreviewEnabled": false,
+    "isBCSEnabled": false,
+    "isCreatorUnderageAndUnconfirmed": false,
+    "isDeletable": false,
+    "isDiagramSet": false,
+    "isEditable": false,
+    "isEligibleForBrainBeats": false,
+    "isEligibleToSeeTeacherOnboardingPreviewCard": false,
+    "isEnrolledInLOTestMode": false,
+    "isFireflySharingEnabled": false,
+    "isFlaggedForProfanity": false,
+    "isLearnHighlighted": false,
+    "isNewSetShareModalOpen": false,
+    "isPaidTeacher": false,
+    "isPublic": true,
+    "isReportingFlowBlocked": false,
+    "isSetViableForClassProgress": false,
+    "isTeacher": false,
+    "isTermsListNudgeDismissed": false,
+    "likelyToRankSets": null,
+    "mainSchool": null,
+    "metering": {
+      "meteringData": null
+    },
+    "newSetShareUrls": null,
+    "numTimesStudyValuePropUpsellModalDismissed": 0,
+    "onboardingCoachmarkType": null,
+    "originalOrder": [
+      19586389507,
+      19586390772,
+      19586395239,
+      19586396113,
+      19586398743,
+      19586401218,
+      19586409156,
+      19586410069,
+      19586412544,
+      19586417691,
+      19586428006,
+      19586430704,
+      19586433352,
+      19586437768,
+      19586439743,
+      19586444771,
+      19586446849,
+      19586449415,
+      19586450615,
+      19586453062
+    ],
+    "pagingMeta": {
+      "page": 1,
+      "perPage": 100,
+      "token": "E5k5SuGXEd.aJu2dmCsHYTeYkeyK",
+      "total": 20
+    },
+    "purchasableType": 0,
+    "qChatLinkDisabledReason": "unknownUser",
+    "randomSeed": 446,
+    "ratingAverage": {
+      "average": 5,
+      "count": 3
+    },
+    "reengagementModalType": null,
+    "recommendedSets": [
+      {
+        "id": 410967560,
+        "timestamp": 1560204903,
+        "lastModified": 1560205231,
+        "publishedTimestamp": 1560205231,
+        "creatorId": 80618030,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "Chapter 66. Returning with Interest: Bowie, Glass, and Postmodern Elaboration",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 18,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/410967560/chapter-66-returning-with-interest-bowie-glass-and-postmodern-elaboration-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 80618030,
+          "username": "natalie_weingart",
+          "timestamp": 1520200290,
+          "lastModified": 1675376379,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://assets.quizlet.com/a/j/dist/app/i/animals/116.9aaedd4f4495837.jpg",
+          "timeZone": "America/Los_Angeles",
+          "firstName": "Natalie",
+          "lastName": "Weingart"
+        }
+      },
+      {
+        "id": 796484224,
+        "timestamp": 1682434247,
+        "lastModified": 1682645572,
+        "publishedTimestamp": 1682434602,
+        "creatorId": 289351687,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "Chapter 55 - Listening Guide Quiz 44: Glass: Symphony No. 4 (Heroes), I",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 20,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/796484224/chapter-55-listening-guide-quiz-44-glass-symphony-no-4-heroes-i-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 289351687,
+          "username": "emilyrosepio",
+          "timestamp": 1667918512,
+          "lastModified": 1714660328,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 0,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocK_Faszpvky_yZmFjbZponJRBQwz09EuUGYNPwpE8-TWkBvprw=s96-c?sz=150",
+          "timeZone": "America/New_York",
+          "firstName": "Emily",
+          "lastName": "Piotrowski"
+        }
+      },
+      {
+        "id": 872291544,
+        "timestamp": 1705549486,
+        "lastModified": 1705552188,
+        "publishedTimestamp": 1705552188,
+        "creatorId": 321414846,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "Tv production cap 6",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 36,
+        "hasImages": true,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/872291544/tv-production-cap-6-flash-cards/",
+        "_thumbnailUrl": "https://o.quizlet.com/pcRf8yd9XbXga0qkAUqt0w_m.jpg",
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 321414846,
+          "username": "anacsoaper",
+          "timestamp": 1694658034,
+          "lastModified": 1711379397,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://assets.quizlet.com/a/j/dist/app/i/animals/108.3b3090077134db3.jpg",
+          "timeZone": "America/Anchorage"
+        }
+      },
+      {
+        "id": 861481865,
+        "timestamp": 1702076250,
+        "lastModified": 1702398392,
+        "publishedTimestamp": 1702398392,
+        "creatorId": 71691281,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "FOK Final",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 44,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/861481865/fok-final-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 71691281,
+          "username": "mmatula9876",
+          "timestamp": 1508944608,
+          "lastModified": 1715134112,
+          "type": 1,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 0,
+          "_imageUrl": "https://assets.quizlet.com/a/j/dist/app/i/animals/116.9aaedd4f4495837.jpg",
+          "timeZone": "America/Chicago"
+        }
+      },
+      {
+        "id": 427529145,
+        "timestamp": 1568675080,
+        "lastModified": 1568675586,
+        "publishedTimestamp": 1568675586,
+        "creatorId": 90429235,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "MUS 354",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 45,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/427529145/mus-354-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 90429235,
+          "username": "sharklover97",
+          "timestamp": 1535782219,
+          "lastModified": 1675376362,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://assets.quizlet.com/a/j/dist/app/i/animals/116.9aaedd4f4495837.jpg",
+          "timeZone": "America/Phoenix",
+          "firstName": "Megan",
+          "lastName": "McDermott"
+        }
+      },
+      {
+        "id": 143005673,
+        "timestamp": 1465754535,
+        "lastModified": 1465754535,
+        "publishedTimestamp": 1465754535,
+        "creatorId": 38749261,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "Music App Ch. 2",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 42,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 2,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/143005673/music-app-ch-2-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 38749261,
+          "username": "k_mcclure",
+          "timestamp": 1457398681,
+          "lastModified": 1675377942,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 0,
+          "_imageUrl": "https://assets.quizlet.com/a/j/dist/app/i/animals/116.9aaedd4f4495837.jpg",
+          "timeZone": "America/Los_Angeles"
+        }
+      },
+      {
+        "id": 862897184,
+        "timestamp": 1702347902,
+        "lastModified": 1702357204,
+        "publishedTimestamp": 1702353109,
+        "creatorId": 325567229,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "Unit 4: music of latin america",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 27,
+        "hasImages": true,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/862897184/unit-4-music-of-latin-america-flash-cards/",
+        "_thumbnailUrl": "https://o.quizlet.com/i/QPHnByO06ymMQOKFuz2wUw_m.jpg",
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 325567229,
+          "username": "adindart",
+          "timestamp": 1696442694,
+          "lastModified": 1714626800,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocLUWGyybm2YpI2T8gHdNxJyAAb2hCSuVjnvXAZFeCilAGiNwA=s96-c?sz=150",
+          "timeZone": "America/Los_Angeles",
+          "firstName": "Alyssa",
+          "lastName": "Indart"
+        }
+      },
+      {
+        "id": 860146617,
+        "timestamp": 1701846707,
+        "lastModified": 1701847171,
+        "publishedTimestamp": 1701847171,
+        "creatorId": 182520601,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "Orchestra Semester Review: Bowings",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "Never give up",
+        "numTerms": 6,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/860146617/orchestra-semester-review-bowings-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 182520601,
+          "username": "bepartition",
+          "timestamp": 1598662827,
+          "lastModified": 1715051539,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 0,
+          "_imageUrl": "https://assets.quizlet.com/a/j/dist/app/i/animals/126.70ed6cbb19b8447.jpg",
+          "timeZone": "America/Chicago"
+        }
+      },
+      {
+        "id": 841329755,
+        "timestamp": 1697689423,
+        "lastModified": 1697689423,
+        "publishedTimestamp": 1697689423,
+        "creatorId": 287074995,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "Musical Instruments and Cultural Traditions",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 10,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/841329755/musical-instruments-and-cultural-traditions-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "magicNoteUuid": "ff7a327e-4693-4fb1-b850-5d1a18e0140b",
+        "_creator": {
+          "id": 287074995,
+          "username": "lodovicohendricks",
+          "timestamp": 1666548015,
+          "lastModified": 1713231672,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocIcnGbfM5Ed8u38aVr0v-j0WV7NW2hlzWTHJLvQ8S7k=s96-c?sz=150",
+          "timeZone": "America/Los_Angeles",
+          "firstName": "Sofia",
+          "lastName": "Lodovico Hendricks"
+        }
+      },
+      {
+        "id": 847968612,
+        "timestamp": 1699151968,
+        "lastModified": 1699152055,
+        "publishedTimestamp": 1699152055,
+        "creatorId": 153944424,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "Music bond test part 1",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 10,
+        "hasImages": false,
+        "parentId": 843681908,
+        "creationSource": 2,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/847968612/music-bond-test-part-1-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 153944424,
+          "username": "tvvcbncc",
+          "timestamp": 1576097963,
+          "lastModified": 1715744504,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocJZOSpXfTQktZGWQiDL-BGGpqDMipvNcfXrs3Tg3u62CX_L7scw=s96-c?sz=150",
+          "timeZone": "America/Los_Angeles"
+        }
+      },
+      {
+        "id": 840767130,
+        "timestamp": 1697595280,
+        "lastModified": 1697605689,
+        "publishedTimestamp": 1697605689,
+        "creatorId": 40893277,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "Jazz Midterm",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 54,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/840767130/jazz-midterm-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 40893277,
+          "username": "shoshanah8",
+          "timestamp": 1461808334,
+          "lastModified": 1708964504,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 0,
+          "_imageUrl": "https://graph.facebook.com/470935189770038/picture?type=large",
+          "timeZone": "America/Los_Angeles",
+          "firstName": "Shoshanah",
+          "lastName": "Israilevich"
+        }
+      },
+      {
+        "id": 873362504,
+        "timestamp": 1705859311,
+        "lastModified": 1708395119,
+        "publishedTimestamp": 1708395119,
+        "creatorId": 26677313,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "delete",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 11,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/873362504/delete-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 26677313,
+          "username": "joshka94",
+          "timestamp": 1439909845,
+          "lastModified": 1712683979,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 0,
+          "_imageUrl": "https://assets.quizlet.com/a/j/dist/app/i/animals/110.36d90f6882d4593.jpg",
+          "timeZone": "America/Los_Angeles"
+        }
+      },
+      {
+        "id": 838424441,
+        "timestamp": 1697120147,
+        "lastModified": 1697120147,
+        "publishedTimestamp": 1697120147,
+        "creatorId": 237262569,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "instrument range & transposition",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 7,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 3,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/838424441/instrument-range-transposition-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 237262569,
+          "username": "Cjt271",
+          "timestamp": 1631755023,
+          "lastModified": 1715744621,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 0,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocJiQSLTCiUjx8Y6rE8lbhiuFo8ICneJG4UeOuOKdfm7owo=s96-c?sz=150",
+          "timeZone": "America/Detroit",
+          "firstName": "Carina",
+          "lastName": ""
+        }
+      },
+      {
+        "id": 859998865,
+        "timestamp": 1701819194,
+        "lastModified": 1701819340,
+        "publishedTimestamp": 1701819340,
+        "creatorId": 320862518,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "music final 4/4 Themed Module: Music and Virtuosity",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 17,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/859998865/music-final-44-themed-module-music-and-virtuosity-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 320862518,
+          "username": "cglunney",
+          "timestamp": 1694488293,
+          "lastModified": 1712025459,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocI28LbxLF3P_K9j_CnfG8UbG0RN0wycW695N4QJNcHR=s96-c?sz=150",
+          "timeZone": "America/Chicago",
+          "firstName": "Caroline",
+          "lastName": "Lunney"
+        }
+      },
+      {
+        "id": 885224227,
+        "timestamp": 1708531928,
+        "lastModified": 1708533381,
+        "publishedTimestamp": 1708533381,
+        "creatorId": 327808844,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "Didital Audio Production Chapters 1-4",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 17,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/885224227/didital-audio-production-chapters-1-4-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 327808844,
+          "username": "hcsoep",
+          "timestamp": 1697590028,
+          "lastModified": 1712770777,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocLt_ZbR7ZvNVjlReoBMwe-joasyPsBZ2sHZ4L7nEdxdYPp-=s96-c?sz=150",
+          "timeZone": "America/New_York"
+        }
+      },
+      {
+        "id": 838202809,
+        "timestamp": 1697071631,
+        "lastModified": 1697071631,
+        "publishedTimestamp": 1697071631,
+        "creatorId": 185125543,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "Intro to Naval Weapons Systems: Electronic Warfare",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 43,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/838202809/intro-to-naval-weapons-systems-electronic-warfare-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "magicNoteUuid": "ecaa4b2d-59cd-45e4-8a78-8ca1a0670a0a",
+        "_creator": {
+          "id": 185125543,
+          "username": "Robinsonsoccer1111",
+          "timestamp": 1599690123,
+          "lastModified": 1715741280,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 0,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocJJmQjBdEAC6y7WATekVnt_NHwMJ2uOtkopvMN4hYsyXA=s96-c?sz=150",
+          "timeZone": null,
+          "firstName": "Ian",
+          "lastName": "Robinson"
+        }
+      },
+      {
+        "id": 672236594,
+        "timestamp": 1645383560,
+        "lastModified": 1645389818,
+        "publishedTimestamp": 1645383561,
+        "creatorId": 183065955,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "Ch 1 An inclusive approach to early education key term",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 16,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 2,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/672236594/ch-1-an-inclusive-approach-to-early-education-key-term-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 183065955,
+          "username": "PrincessAriel22",
+          "timestamp": 1598966097,
+          "lastModified": 1649906981,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://assets.quizlet.com/a/j/dist/app/i/animals/113.e4b7e1c4ed27afa.jpg",
+          "timeZone": "America/Los_Angeles"
+        }
+      },
+      {
+        "id": 666509583,
+        "timestamp": 1643988867,
+        "lastModified": 1643989129,
+        "publishedTimestamp": 1643988868,
+        "creatorId": 257008462,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "Unit 6",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 11,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 2,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/666509583/unit-6-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 257008462,
+          "username": "quizlette8516690",
+          "timestamp": 1643988832,
+          "lastModified": 1715608358,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocKEnUrEInKeFo9MbuEsLMCzmbCI06ZcCvfwFQoquQJBVDZUz8I=s96-c?sz=150",
+          "timeZone": "America/Chicago",
+          "firstName": "Madison",
+          "lastName": "Jones"
+        }
+      },
+      {
+        "id": 783024183,
+        "timestamp": 1678722932,
+        "lastModified": 1678724651,
+        "publishedTimestamp": 1678722932,
+        "creatorId": 302983931,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "Music in the Modern Age",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 18,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 3,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/783024183/music-in-the-modern-age-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 302983931,
+          "username": "parkerhovie",
+          "timestamp": 1678371693,
+          "lastModified": 1715287596,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 0,
+          "_imageUrl": "https://up.quizlet.com/50dzwb-5evfC-256s.png",
+          "timeZone": "America/New_York"
+        }
+      },
+      {
+        "id": 687824408,
+        "timestamp": 1649279381,
+        "lastModified": 1649701881,
+        "publishedTimestamp": 1649701880,
+        "creatorId": 187148911,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "April 7 Vocab",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 15,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/687824408/april-7-vocab-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 187148911,
+          "username": "reesemosley2021",
+          "timestamp": 1600306136,
+          "lastModified": 1711000467,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 0,
+          "_imageUrl": "https://assets.quizlet.com/a/j/dist/app/i/animals/116.9aaedd4f4495837.jpg",
+          "timeZone": "America/Chicago"
+        }
+      },
+      {
+        "id": 830072726,
+        "timestamp": 1695494497,
+        "lastModified": 1695495366,
+        "publishedTimestamp": 1695495366,
+        "creatorId": 322114224,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "Indicating / Recording",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 34,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/830072726/indicating-recording-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 322114224,
+          "username": "Flight0001",
+          "timestamp": 1695005107,
+          "lastModified": 1714848156,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://assets.quizlet.com/a/j/dist/app/i/animals/107.c3e123902d831a9.jpg",
+          "timeZone": "America/Los_Angeles"
+        }
+      },
+      {
+        "id": 686856551,
+        "timestamp": 1649089667,
+        "lastModified": 1649089945,
+        "publishedTimestamp": 1649089945,
+        "creatorId": 151367206,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "Quiz 2 Abbreviations",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 16,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/686856551/quiz-2-abbreviations-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 151367206,
+          "username": "makaylaimm",
+          "timestamp": 1574344193,
+          "lastModified": 1712684184,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 0,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ALm5wu270pcr94s6yeIYARdcZZfmMtqOevJt6XBZcI06qA=s96-c?sz=150",
+          "timeZone": "America/New_York"
+        }
+      },
+      {
+        "id": 656683289,
+        "timestamp": 1641478374,
+        "lastModified": 1641478732,
+        "publishedTimestamp": 1641478732,
+        "creatorId": 140844247,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "List 16",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 10,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/656683289/list-16-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 140844247,
+          "username": "MsSchryvers",
+          "timestamp": 1569116179,
+          "lastModified": 1651697935,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 1,
+          "_imageUrl": "https://assets.quizlet.com/a/j/dist/app/i/animals/122.c263b6b48ca2b1a.jpg",
+          "timeZone": "America/Chicago"
+        }
+      },
+      {
+        "id": 775883431,
+        "timestamp": 1676913213,
+        "lastModified": 1676914125,
+        "publishedTimestamp": 1676914125,
+        "creatorId": 191852802,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "Western Art Music Quiz 2",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 20,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/775883431/western-art-music-quiz-2-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 191852802,
+          "username": "car07127",
+          "timestamp": 1601917790,
+          "lastModified": 1714584960,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 0,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocLWQQ6f5kDevbddUgmaTIT755OFztrG7WuXGa5VrbpT=s96-c?sz=150",
+          "timeZone": "America/New_York",
+          "firstName": "Christie",
+          "lastName": "Recine"
+        }
+      },
+      {
+        "id": 618901233,
+        "timestamp": 1632199519,
+        "lastModified": 1632199520,
+        "publishedTimestamp": 1632199520,
+        "creatorId": 171118594,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "Music quiz #3",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 7,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 2,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/618901233/music-quiz-3-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 171118594,
+          "username": "Mk21kingm",
+          "timestamp": 1587599220,
+          "lastModified": 1714872437,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 0,
+          "_imageUrl": "https://assets.quizlet.com/a/j/dist/app/i/animals/116.9aaedd4f4495837.jpg",
+          "timeZone": "America/New_York"
+        }
+      }
+    ],
+    "recommendedTextbooks": null,
+    "recommendedBehavioralTextbooks": null,
+    "relatedQuestions": null,
+    "relevantSetMembershipsMap": [],
+    "selectedOnly": false,
+    "set": {
+      "id": 544748869,
+      "timestamp": 1604747684,
+      "lastModified": 1604748465,
+      "publishedTimestamp": 1604748465,
+      "creatorId": 115776700,
+      "wordLang": "en",
+      "defLang": "en",
+      "title": "Chapter 54. Underscoring Meaning: Williams and Music for Film",
+      "passwordUse": false,
+      "passwordEdit": false,
+      "accessType": 2,
+      "accessCodePrefix": null,
+      "description": "",
+      "numTerms": 20,
+      "hasImages": false,
+      "parentId": 0,
+      "creationSource": 1,
+      "privacyLockStatus": 0,
+      "hasDiagrams": false,
+      "_webUrl": "https://quizlet.com/544748869/chapter-54-underscoring-meaning-williams-and-music-for-film-flash-cards/",
+      "_thumbnailUrl": null,
+      "price": null,
+      "mcqCount": 0,
+      "purchasableType": 0
+    },
+    "setLocale": null,
+    "setSlug": "chapter-54-underscoring-meaning-williams-and-music-for-film",
+    "setUnlockedForLearnAndTestPaywall": false,
+    "setPaths": {
+      "delete": "/544748869/delete",
+      "edit": "/544748869/edit",
+      "editBottom": "/544748869/edit#addRow",
+      "editWithPassword": "/544748869/edit-screen?inline=1",
+      "info": "/544748869/info?setId=544748869&setSlug=chapter-54-underscoring-meaning-williams-and-music-for-film-flash-cards",
+      "print": "/544748869/print",
+      "remove": "/qzadmin/sets/544748869/remove",
+      "scores": "/544748869/scores?setId=544748869&setSlug=chapter-54-underscoring-meaning-williams-and-music-for-film-flash-cards",
+      "show": "/544748869/chapter-54-underscoring-meaning-williams-and-music-for-film-flash-cards/?setId=544748869&setSlug=chapter-54-underscoring-meaning-williams-and-music-for-film-flash-cards"
+    },
+    "setPageMultipleEmbeddedAdsDesktopMaxAds": 6,
+    "setPageMultipleEmbeddedAdsDesktopMinTerms": 8,
+    "setPageMultipleEmbeddedAdsDesktopSpacing": 10,
+    "setPageMultipleEmbeddedAdsDesktopStartPosition": 1,
+    "setPageMultipleEmbeddedAdsMobileMaxAds": 5,
+    "setPageMultipleEmbeddedAdsMobileMinTerms": 7,
+    "setPageMultipleEmbeddedAdsMobileSpacing": 9,
+    "setPageMultipleEmbeddedAdsMobileStartPosition": 2,
+    "setsFromCreator": null,
+    "setsFromFolder": null,
+    "shareUrls": {
+      "emailUrl": "/webapi/3.4/set/544748869/email"
+    },
+    "shouldRemoveMiniFlashcards": false,
+    "shouldRemoveSignupWall": false,
+    "shouldRenderBreadcrumbsSchema": null,
+    "shouldShowAd": true,
+    "shouldShowAdminTools": false,
+    "shouldShowEdgyDataModal": false,
+    "shouldShowBreadcrumbs": null,
+    "shouldShowCardsPreview": false,
+    "shouldShowCardTooltip": false,
+    "shouldShowClassProgressUpsellModalOnLoad": false,
+    "shouldShowExplanationsValueModal": false,
+    "shouldShowGamesHub": false,
+    "shouldShowPracticeTestBanner": false,
+    "shouldShowProgressBuckets": false,
+    "shouldShowProgressReset": false,
+    "shouldShowQChatLink": true,
+    "shouldShowRatingModal": false,
+    "shouldShowReferrerModal": false,
+    "shouldShowRichText": true,
+    "shouldShowShareOptions": true,
+    "shouldShowSignupCurtain": true,
+    "shouldShowSignupWall": true,
+    "shouldShowStickiesA": false,
+    "shouldShowStudyPath": false,
+    "shouldShowStudyValuePropUpsellModal": false,
+    "shouldShowTextbookRecommendations": false,
+    "shouldShowThankYouModal": false,
+    "shouldStudyModeButtonsUseCsr": false,
+    "shouldUseInternationalUrl": false,
+    "showVerifiedUI": false,
+    "similarSets": null,
+    "socialProofMessage": false,
+    "studiableItemsDefinitionSideMaxLength": 1850,
+    "studiableItemsWordSideMaxLength": 930,
+    "studyGuideData": null,
+    "termIdToIsSelectedMap": {
+      "19586389507": false,
+      "19586390772": false,
+      "19586395239": false,
+      "19586396113": false,
+      "19586398743": false,
+      "19586401218": false,
+      "19586409156": false,
+      "19586410069": false,
+      "19586412544": false,
+      "19586417691": false,
+      "19586428006": false,
+      "19586430704": false,
+      "19586433352": false,
+      "19586437768": false,
+      "19586439743": false,
+      "19586444771": false,
+      "19586446849": false,
+      "19586449415": false,
+      "19586450615": false,
+      "19586453062": false
+    },
+    "termIdToQuestionMap": [],
+    "termSort": "original",
+    "topCreatorLabel": null,
+    "user": null,
+    "userRating": null,
+    "userSchools": null,
+    "wantsAchievementNotification": false,
+    "wantsScheduledReviewReminders": true,
+    "yourStatsChunks": {},
+    "shouldShowCategoriesLink": false,
+    "shouldShowBlastGame": false,
+    "questionEventLogger": {},
+    "signupMetadata": {},
+    "isAddToClassOrFolderModalOpen": false,
+    "isAddToClassModalOpen": false,
+    "isAddToFolderModalOpen": false,
+    "isCreateClassModalOpen": false,
+    "isCreateFolderModalOpen": false,
+    "isEligibleForSetPersonalization": false,
+    "isEmbedModalOpen": false,
+    "isExportModalOpen": false,
+    "isFirstSetSaveModalOpen": false,
+    "isGenerateSetPersonalizationModalOpen": false,
+    "isMobileOnrampModalOpen": false,
+    "isNewSetShare": false,
+    "isProgressResetModalOpen": false,
+    "isShareModalOpen": false,
+    "isSharingOnFirefly": false,
+    "isSignupModalOpen": false,
+    "isStudyModeButtonCoachmarkDismissed": false,
+    "gtmOverrideStrForPage": "{\"locale\":\"en-us\",\"abTests\":\"ChallengeModalV2:experiment,ClassAutoJoin[default,growth]:experiment,LOTestModeSEOABTest:experiment,LibraryNavPopoverRemoval:control,MagicNotesHurricaneBannerFeatureFlag:variantB,MicroSignUpOptimizations[default,experiment]:experiment,NotesLandingShareText:experiment,NotesRemoveQChat:control,ShouldTestINPLoadingState[default,growth]:experiment,StudentCompetitionPhase2:end,SubjectNavAbiturLinks:experiment,SubjectNavEnemLinks:experiment,UseDemographicPackages[default,subscriptions]:experiment,VerifiedGroupOrder[default,subscriptions]:experiment,ZuoraLocalCurrency[default,subscriptions]:control,AdapexPbV3[default,ads]:control,CopyABTestExplanationsLandingPageHeadingFreeajRzM:noFree,CopyABTestGlobalHeaderNotesButtons6eek:variation4,CopyABTestLoggedInHomepageWhatsNewNotesTitlekUE7A:variation1,CopyABTestLoggedInHomepageWhatsNewQChatTitlefPFPK:control,CopyABTestModesCardsSignupTitleekNma:control,CopyABTestNotesValueUploadPageBottomBarCreateheP8h:control,CopyABTestUpgradePagePlanPeriodSelectorFocusAnnualAFMDQ:control,DisableSendSoonerForAdSlotEventsV2[default,ads]:experiment,FetchFloorsBeforeAuctionV1[default,ads]:experiment,FlashcardStudyBreakAdV2[default,ads]:control,GoogleFedCMV2[default,growth,ads]:control,Infolinks[default,ads]:control,MatchEntryAdV3[default,ads]:control,MultiFormatAdsV3[default,ads]:control,PracticeTestV1[default,subscriptions,ads]:experiment,Prebid33AcrossIdModule[default,ads]:control,PrebidTopics[default,ads]:experiment,RemoveID5Identity[default,ads]:experiment,RemoveSignupWallPH[default,ads,subscriptions]:control,SetPageDwebSidebarButtonsV2[ads]:control,SetPageToStudyModesCsrV2[ads]:control,SnowplowAdsEvents[default,ads]:experiment,StopRenderingSidebarsInMweb[default,ads]:experiment,SyncFlashcardAdsTimmer[default,ads]:control,TypeaheadVectorSuggestionV5[default,search,ads]:variantAt0\",\"loginSource\":\"\",\"isLoggedIn\":false,\"selfIdentifiedUserType\":\"unknown\",\"userUpgradeType\":\"free-anonymous\",\"isVerifiedCreator\":false,\"renderEnvironment\":\"renderer\",\"uid\":\"-7207687064164492688\",\"userId\":null,\"canSendDataBasedOnAgeAndCountry\":true,\"countryCode\":null,\"isUnderAge\":false,\"isUnderEighteen\":false,\"isUnderSixteen\":false,\"isUnderThirteen\":false,\"studyableTitle\":\"Chapter 54. Underscoring Meaning: Williams and Music for Film\",\"studyableId\":544748869,\"studyableType\":\"set\",\"hasDiagrams\":false}",
+    "htmlHeadData": {
+      "canonicalUrl": "https://quizlet.com/544748869/chapter-54-underscoring-meaning-williams-and-music-for-film-flash-cards/",
+      "metaDescription": "Study with Quizlet and memorize flashcards containing terms like What are the two main types of film music?, In the movie Jaws, the shark is represented by a two-note oscillating motive., \"Running counter to the action\" is a technique that composers use to supply irony in film music. and more.",
+      "robotsMetaTag": null,
+      "setTitle": "Chapter 54. Underscoring Meaning: Williams and Music for Film Flashcards",
+      "contentLanguage": null,
+      "htmlLang": null,
+      "socialImageUrl": "https://assets.quizlet.com/a/j/dist/app/i/share/share-set.1f4740293bbc750.png"
+    },
+    "isCreatorOnly": false,
+    "isEditableWithPassword": false,
+    "shouldUseSearchEngineSSRTranslation": true,
+    "sourceStudyGuide": null,
+    "adsConfig": {
+      "adsDisabledReasons": [],
+      "areAdsDisabled": false,
+      "browserData": {
+        "browserName": "Chrome",
+        "browserVersion": "108.0.0.0",
+        "osName": "Macintosh",
+        "osVersion": "13.1",
+        "countryCode": "us",
+        "regionCode": "tx"
+      },
+      "ccpaApplies": false,
+      "flooringHoldoutVariant": "control",
+      "gdprApplies": false,
+      "gppApplies": true,
+      "email": null,
+      "hashedEmail": null,
+      "isBCSEnabled": false,
+      "keyValues": {
+        "adexp_if85": "0",
+        "adexp_sptsmcve8b": "0",
+        "adexp_sae820": "1",
+        "adexp_ptb44": "1",
+        "childDirected": "no",
+        "n": "en-us",
+        "l": "0",
+        "pa": "SetsRenderer_show",
+        "p": "1",
+        "v": "1",
+        "iefft": "1",
+        "rpv": "82",
+        "set_id": "544748869",
+        "ct_level1": "Arts And Humanities",
+        "ct_level2": "Music",
+        "gl": [
+          "cb",
+          "co"
+        ],
+        "stc": "11-50"
+      },
+      "matchVideoEntryTestVariant": null,
+      "outOfPageSlotNames": [
+        "outOfPage1",
+        "outOfPage2"
+      ],
+      "pageHierarchyStack": [
+        2,
+        4
+      ],
+      "prebidTag": "topics",
+      "registeredAds": {
+        "SetSidebarV4": {
+          "allowPrefetch": true,
+          "autoInitialPrefetch": true,
+          "defineSlotImmediately": false,
+          "isBCS": false,
+          "isFlexible": true,
+          "isOutstream": false,
+          "isPHPRendered": false,
+          "lazyLoaded": false,
+          "showAdHeading": true,
+          "useHeaderBidding": true,
+          "type": "SIDEBAR"
+        },
+        "SetRectangleHeader": {
+          "allowPrefetch": true,
+          "autoInitialPrefetch": true,
+          "defineSlotImmediately": false,
+          "isBCS": false,
+          "isFlexible": true,
+          "isOutstream": false,
+          "isPHPRendered": false,
+          "lazyLoaded": false,
+          "showAdHeading": false,
+          "useHeaderBidding": true,
+          "type": "RECTANGLE"
+        },
+        "SetPageFooter": {
+          "allowPrefetch": true,
+          "autoInitialPrefetch": true,
+          "defineSlotImmediately": false,
+          "isBCS": false,
+          "isFlexible": true,
+          "isOutstream": false,
+          "isPHPRendered": false,
+          "lazyLoaded": false,
+          "showAdHeading": true,
+          "useHeaderBidding": true,
+          "type": "BANNER"
+        },
+        "SetMWebStripV3": {
+          "allowPrefetch": true,
+          "autoInitialPrefetch": true,
+          "defineSlotImmediately": false,
+          "isBCS": false,
+          "isFlexible": false,
+          "isOutstream": false,
+          "isPHPRendered": false,
+          "lazyLoaded": false,
+          "showAdHeading": false,
+          "useHeaderBidding": true,
+          "type": "MOBILE_HORIZONTAL_STRIP"
+        },
+        "SetPageStickyAdMWeb": {
+          "allowPrefetch": false,
+          "autoInitialPrefetch": false,
+          "defineSlotImmediately": false,
+          "isBCS": false,
+          "isFlexible": true,
+          "isOutstream": false,
+          "isPHPRendered": false,
+          "lazyLoaded": false,
+          "showAdHeading": false,
+          "useHeaderBidding": true,
+          "type": "MOBILE_HORIZONTAL_STRIP"
+        },
+        "SetPageEmbedDesktopMulti01": {
+          "allowPrefetch": true,
+          "autoInitialPrefetch": true,
+          "defineSlotImmediately": false,
+          "isBCS": false,
+          "isFlexible": true,
+          "isOutstream": false,
+          "isPHPRendered": false,
+          "lazyLoaded": false,
+          "showAdHeading": false,
+          "useHeaderBidding": true,
+          "type": "NATIVE"
+        },
+        "SetPageEmbedDesktopMulti02": {
+          "allowPrefetch": true,
+          "autoInitialPrefetch": true,
+          "defineSlotImmediately": false,
+          "isBCS": false,
+          "isFlexible": true,
+          "isOutstream": false,
+          "isPHPRendered": false,
+          "lazyLoaded": false,
+          "showAdHeading": true,
+          "useHeaderBidding": true,
+          "type": "BANNER"
+        },
+        "SetPageEmbedMWebMulti01": {
+          "allowPrefetch": true,
+          "autoInitialPrefetch": true,
+          "defineSlotImmediately": false,
+          "isBCS": false,
+          "isFlexible": true,
+          "isOutstream": false,
+          "isPHPRendered": false,
+          "lazyLoaded": false,
+          "showAdHeading": false,
+          "useHeaderBidding": true,
+          "type": "NATIVE"
+        },
+        "SetPageEmbedMWebMulti02": {
+          "allowPrefetch": true,
+          "autoInitialPrefetch": true,
+          "defineSlotImmediately": false,
+          "isBCS": false,
+          "isFlexible": true,
+          "isOutstream": false,
+          "isPHPRendered": false,
+          "lazyLoaded": false,
+          "showAdHeading": false,
+          "useHeaderBidding": true,
+          "type": "MOBILE_RECTANGLE"
+        }
+      },
+      "qChatVideoAdTestVariant": null,
+      "shouldLogAdRequests": false,
+      "shouldLogOWReceivedBids": true,
+      "shouldLogWinningBidsToBQ": true,
+      "shouldLogWinningVideoBidsToBQ": true,
+      "shouldUseNativePrebid": true,
+      "shouldUseAdapex": false,
+      "shouldDisableA9": false,
+      "shouldUseSnowplow": true,
+      "shouldUseLiveramp": true,
+      "shouldUse33AcrossId": false,
+      "shouldUseMultiformat": false,
+      "shouldUseIIQ": false,
+      "sidebarAdsRefreshInterval": 30,
+      "tagForChildDirectedTreatment": false,
+      "serverTime": 1715827848
+    },
+    "uid": "-7207687064164492688",
+    "cameFromUpload": false
+  },
+  "cards": {
+    "ads": {
+      "shouldShowCardIntervalAd": false,
+      "cardsView": 1,
+      "miniFcProgramaticAndFrequencyVariant": null,
+      "isRenderingRva": false,
+      "isRewarded": false,
+      "isMwebAdEnabled": false,
+      "mwebAdsState": {
+        "areCardsMovingForward": true,
+        "isRenderingMwebAd": false,
+        "isShowingCardsMwebAd": false,
+        "shouldLoadCardsMwebAd": false,
+        "shouldPreloadMwebAd": false,
+        "isAdNoFill": false
+      }
+    },
+    "cardExplanations": {
+      "explanationsCache": {},
+      "modalState": {
+        "answerText": "",
+        "explanationText": "",
+        "hasError": false,
+        "isLongTextExpanded": false,
+        "isOpen": false,
+        "promptText": "",
+        "serverTimestampMs": 0,
+        "studiableContainerId": 0,
+        "studiableItemId": 0
+      }
+    },
+    "engine": {
+      "adsState": null,
+      "isFlipped": false,
+      "modeState": {
+        "question": {
+          "front": {
+            "attributes": [
+              {
+                "type": "TextAttribute",
+                "plainText": "What are the two main types of film music?",
+                "languageCode": "en",
+                "richText": null,
+                "mediaType": 1
+              },
+              {
+                "type": "AudioAttribute",
+                "url": "/tts/en.mp3?v=14&b=V2hhdCBhcmUgdGhlIHR3byBtYWluIHR5cGVzIG9mIGZpbG0gbXVzaWM.&s=se0Gs.F5",
+                "slowUrl": "/tts/en.mp3?v=14&b=V2hhdCBhcmUgdGhlIHR3byBtYWluIHR5cGVzIG9mIGZpbG0gbXVzaWM.&s=se0Gs.F5&speed=70",
+                "mediaType": 4
+              }
+            ]
+          },
+          "back": {
+            "attributes": [
+              {
+                "type": "TextAttribute",
+                "plainText": "source music\nunderscoring",
+                "languageCode": "en",
+                "richText": null,
+                "mediaType": 1
+              },
+              {
+                "type": "AudioAttribute",
+                "url": "/tts/en.mp3?v=14&b=c291cmNlIG11c2ljCnVuZGVyc2NvcmluZw&s=YFyPNIGL",
+                "slowUrl": "/tts/en.mp3?v=14&b=c291cmNlIG11c2ljCnVuZGVyc2NvcmluZw&s=YFyPNIGL&speed=70",
+                "mediaType": 4
+              }
+            ]
+          },
+          "hint": {
+            "attributes": [
+              {
+                "type": "TextAttribute",
+                "plainText": "source ________",
+                "languageCode": "en",
+                "richText": null,
+                "mediaType": 1
+              }
+            ]
+          },
+          "metadata": {
+            "studiableItemId": 19586389507,
+            "promptSide": "word",
+            "answerSide": "definition",
+            "questionSource": null,
+            "questionScoringInferenceMetadata": null,
+            "optionGenerationSource": null,
+            "meteringData": null
+          },
+          "questionType": 16
+        },
+        "hasActionAvailableToUndo": false,
+        "progress": {
+          "totalProgress": {
+            "masteryBuckets": {
+              "type": "FlashcardsMasteryBuckets",
+              "remaining": [
+                19586389507,
+                19586390772,
+                19586395239,
+                19586396113,
+                19586398743,
+                19586401218,
+                19586409156,
+                19586410069,
+                19586412544,
+                19586417691,
+                19586428006,
+                19586430704,
+                19586433352,
+                19586437768,
+                19586439743,
+                19586444771,
+                19586446849,
+                19586449415,
+                19586450615,
+                19586453062
+              ],
+              "completed": []
+            },
+            "studyProgress": 0
+          },
+          "currentRound": 1,
+          "total": {
+            "completed": 0,
+            "stillLearning": 0,
+            "total": 20
+          },
+          "cycle": {
+            "completed": 0,
+            "stillLearning": 0,
+            "total": 20
+          },
+          "round": {
+            "completed": 0,
+            "stillLearning": 0,
+            "total": 20
+          },
+          "roundProgress": {
+            "isRoundComplete": false,
+            "isCycleComplete": false,
+            "numCardsCompleted": 0,
+            "totalNumCardsCompleted": 0,
+            "numCardsMovedToNextCycle": 0,
+            "totalNumCardsMovedToNextCycle": 0,
+            "numCards": 20,
+            "roundProgressPercent": 0
+          }
+        },
+        "shuffleRandomSeed": 1
+      },
+      "isEngineInitialized": false
+    },
+    "onboarding": {
+      "numCardsSeen": 0
+    },
+    "ui": {
+      "answerHistory": {
+        "starred": [],
+        "unstarred": []
+      },
+      "cardsOrigin": "set_page",
+      "errors": {
+        "editStudiableItem": null
+      },
+      "funnelUuid": "",
+      "hasInteractedWithMode": false,
+      "isAutoplayOn": false,
+      "isEditing": false,
+      "isEligibleToSeeTeacherOnboardingPreviewCard": false,
+      "isEligibleForSetPersonalization": false,
+      "isFlipped": false,
+      "isRequestingEdit": false,
+      "isMcqPreviewEnabled": false,
+      "mcqPreviewLastMode": null,
+      "mcqPreviewDismissalExpiration": 0,
+      "mcqPreviewDistractors": [],
+      "isInMiniFCV2": false
+    }
+  },
+  "cardsAudioMode": {
+    "isAudioPlaying": false
+  },
+  "audioPlayback": {
+    "playingAudioId": null,
+    "lastPlayedQueue": [],
+    "playQueue": [],
+    "preloadQueue": []
+  },
+  "studyModesCommon": {
+    "engine": {
+      "instance": null,
+      "gradedAnswer": null,
+      "studyStep": null,
+      "totalProgress": null,
+      "roundProgress": null,
+      "answerHistory": null,
+      "taskRoundProgress": null,
+      "taskSequenceProgress": null
+    },
+    "gradings": {
+      "answerGradedByLongtextGradingService": false,
+      "isEligibleForSmartGrading": false,
+      "isGrading": false,
+      "overrideCorrectnessCounter": 0,
+      "shouldShowSmartGradingUpsell": false
+    },
+    "logging": {
+      "embedType": "internal",
+      "funnelUUID": "",
+      "config": null,
+      "logPageActionFn": null,
+      "logNavigationEventFn": null,
+      "modeType": 2,
+      "selectedOnly": false,
+      "studyableId": 544748869,
+      "studyableType": 1,
+      "uid": "",
+      "user": null
+    },
+    "studiableData": {
+      "studiableMetadataByType": {
+        "5": [
+          {
+            "studiableContainerId": 544748869,
+            "studiableContainerType": 1,
+            "studiableItemId": 19586389507,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "written": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            }
+          },
+          {
+            "studiableContainerId": 544748869,
+            "studiableContainerType": 1,
+            "studiableItemId": 19586390772,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "written": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            }
+          },
+          {
+            "studiableContainerId": 544748869,
+            "studiableContainerType": 1,
+            "studiableItemId": 19586395239,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "written": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            }
+          },
+          {
+            "studiableContainerId": 544748869,
+            "studiableContainerType": 1,
+            "studiableItemId": 19586396113,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "written": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            }
+          },
+          {
+            "studiableContainerId": 544748869,
+            "studiableContainerType": 1,
+            "studiableItemId": 19586398743,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "written": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            }
+          },
+          {
+            "studiableContainerId": 544748869,
+            "studiableContainerType": 1,
+            "studiableItemId": 19586401218,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "written": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            }
+          },
+          {
+            "studiableContainerId": 544748869,
+            "studiableContainerType": 1,
+            "studiableItemId": 19586409156,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "written": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            }
+          },
+          {
+            "studiableContainerId": 544748869,
+            "studiableContainerType": 1,
+            "studiableItemId": 19586410069,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "written": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            }
+          },
+          {
+            "studiableContainerId": 544748869,
+            "studiableContainerType": 1,
+            "studiableItemId": 19586412544,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "written": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            }
+          },
+          {
+            "studiableContainerId": 544748869,
+            "studiableContainerType": 1,
+            "studiableItemId": 19586417691,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "written": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            }
+          },
+          {
+            "studiableContainerId": 544748869,
+            "studiableContainerType": 1,
+            "studiableItemId": 19586428006,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "written": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            }
+          },
+          {
+            "studiableContainerId": 544748869,
+            "studiableContainerType": 1,
+            "studiableItemId": 19586430704,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "written": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            }
+          },
+          {
+            "studiableContainerId": 544748869,
+            "studiableContainerType": 1,
+            "studiableItemId": 19586433352,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "written": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            }
+          },
+          {
+            "studiableContainerId": 544748869,
+            "studiableContainerType": 1,
+            "studiableItemId": 19586437768,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "written": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            }
+          },
+          {
+            "studiableContainerId": 544748869,
+            "studiableContainerType": 1,
+            "studiableItemId": 19586439743,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "written": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            }
+          },
+          {
+            "studiableContainerId": 544748869,
+            "studiableContainerType": 1,
+            "studiableItemId": 19586444771,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "written": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            }
+          },
+          {
+            "studiableContainerId": 544748869,
+            "studiableContainerType": 1,
+            "studiableItemId": 19586446849,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "written": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            }
+          },
+          {
+            "studiableContainerId": 544748869,
+            "studiableContainerType": 1,
+            "studiableItemId": 19586449415,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "written": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            }
+          },
+          {
+            "studiableContainerId": 544748869,
+            "studiableContainerType": 1,
+            "studiableItemId": 19586450615,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "written": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            }
+          },
+          {
+            "studiableContainerId": 544748869,
+            "studiableContainerType": 1,
+            "studiableItemId": 19586453062,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "written": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            }
+          }
+        ]
+      },
+      "studiableItems": [
+        {
+          "id": 19586389507,
+          "studiableContainerType": 1,
+          "studiableContainerId": 544748869,
+          "type": 2,
+          "rank": 0,
+          "creatorId": 115776700,
+          "timestamp": 1604747736,
+          "lastModified": 1604747736,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "What are the two main types of film music?",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=V2hhdCBhcmUgdGhlIHR3byBtYWluIHR5cGVzIG9mIGZpbG0gbXVzaWM.&s=se0Gs.F5",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=V2hhdCBhcmUgdGhlIHR3byBtYWluIHR5cGVzIG9mIGZpbG0gbXVzaWM.&s=se0Gs.F5&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "source music\nunderscoring",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=c291cmNlIG11c2ljCnVuZGVyc2NvcmluZw&s=YFyPNIGL",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=c291cmNlIG11c2ljCnVuZGVyc2NvcmluZw&s=YFyPNIGL&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 19586390772,
+          "studiableContainerType": 1,
+          "studiableContainerId": 544748869,
+          "type": 2,
+          "rank": 1,
+          "creatorId": 115776700,
+          "timestamp": 1604747753,
+          "lastModified": 1604747753,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "In the movie Jaws, the shark is represented by a two-note oscillating motive.",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=SW4gdGhlIG1vdmllIEphd3MsIHRoZSBzaGFyayBpcyByZXByZXNlbnRlZCBieSBhIHR3by1ub3RlIG9zY2lsbGF0aW5nIG1vdGl2ZS4&s=3UWBNRKu",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=SW4gdGhlIG1vdmllIEphd3MsIHRoZSBzaGFyayBpcyByZXByZXNlbnRlZCBieSBhIHR3by1ub3RlIG9zY2lsbGF0aW5nIG1vdGl2ZS4&s=3UWBNRKu&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "True",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=VHJ1ZQ&s=IPfXTM4H",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=VHJ1ZQ&s=IPfXTM4H&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 19586395239,
+          "studiableContainerType": 1,
+          "studiableContainerId": 544748869,
+          "type": 2,
+          "rank": 2,
+          "creatorId": 115776700,
+          "timestamp": 1604747787,
+          "lastModified": 1604747787,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 0,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "\"Running counter to the action\" is a technique that composers use to supply irony in film music.",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=IlJ1bm5pbmcgY291bnRlciB0byB0aGUgYWN0aW9uIiBpcyBhIHRlY2huaXF1ZSB0aGF0IGNvbXBvc2VycyB1c2UgdG8gc3VwcGx5IGlyb255IGluIGZpbG0gbXVzaWMu&s=4GevLXTJ",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=IlJ1bm5pbmcgY291bnRlciB0byB0aGUgYWN0aW9uIiBpcyBhIHRlY2huaXF1ZSB0aGF0IGNvbXBvc2VycyB1c2UgdG8gc3VwcGx5IGlyb255IGluIGZpbG0gbXVzaWMu&s=4GevLXTJ&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 1,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "True",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=VHJ1ZQ&s=IPfXTM4H",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=VHJ1ZQ&s=IPfXTM4H&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 19586396113,
+          "studiableContainerType": 1,
+          "studiableContainerId": 544748869,
+          "type": 2,
+          "rank": 3,
+          "creatorId": 115776700,
+          "timestamp": 1604747814,
+          "lastModified": 1604747814,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "Source music refers to music that functions as part of the drama itself, such as a character turning on a radio.",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=U291cmNlIG11c2ljIHJlZmVycyB0byBtdXNpYyB0aGF0IGZ1bmN0aW9ucyBhcyBwYXJ0IG9mIHRoZSBkcmFtYSBpdHNlbGYsIHN1Y2ggYXMgYSBjaGFyYWN0ZXIgdHVybmluZyBvbiBhIHJhZGlvLg&s=LQkHFN-f",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=U291cmNlIG11c2ljIHJlZmVycyB0byBtdXNpYyB0aGF0IGZ1bmN0aW9ucyBhcyBwYXJ0IG9mIHRoZSBkcmFtYSBpdHNlbGYsIHN1Y2ggYXMgYSBjaGFyYWN0ZXIgdHVybmluZyBvbiBhIHJhZGlvLg&s=LQkHFN-f&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "True",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=VHJ1ZQ&s=IPfXTM4H",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=VHJ1ZQ&s=IPfXTM4H&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 19586398743,
+          "studiableContainerType": 1,
+          "studiableContainerId": 544748869,
+          "type": 2,
+          "rank": 4,
+          "creatorId": 115776700,
+          "timestamp": 1604747845,
+          "lastModified": 1604747845,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "In order to associate the music with a character, John Williams utilizes - in his film music.",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=SW4gb3JkZXIgdG8gYXNzb2NpYXRlIHRoZSBtdXNpYyB3aXRoIGEgY2hhcmFjdGVyLCBKb2huIFdpbGxpYW1zIHV0aWxpemVzIC0gaW4gaGlzIGZpbG0gbXVzaWMu&s=A8WfVTlz",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=SW4gb3JkZXIgdG8gYXNzb2NpYXRlIHRoZSBtdXNpYyB3aXRoIGEgY2hhcmFjdGVyLCBKb2huIFdpbGxpYW1zIHV0aWxpemVzIC0gaW4gaGlzIGZpbG0gbXVzaWMu&s=A8WfVTlz&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "leitmotifs",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=bGVpdG1vdGlmcw&s=cv1jELzB",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=bGVpdG1vdGlmcw&s=cv1jELzB&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 19586401218,
+          "studiableContainerType": 1,
+          "studiableContainerId": 544748869,
+          "type": 2,
+          "rank": 5,
+          "creatorId": 115776700,
+          "timestamp": 1604747893,
+          "lastModified": 1604747893,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "John Williams's Imperial March has also been used for -\n events between rival teams and even as a popular -",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=Sm9obiBXaWxsaWFtcydzIEltcGVyaWFsIE1hcmNoIGhhcyBhbHNvIGJlZW4gdXNlZCBmb3IgLQogZXZlbnRzIGJldHdlZW4gcml2YWwgdGVhbXMgYW5kIGV2ZW4gYXMgYSBwb3B1bGFyIC0&s=cv05IMlr",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=Sm9obiBXaWxsaWFtcydzIEltcGVyaWFsIE1hcmNoIGhhcyBhbHNvIGJlZW4gdXNlZCBmb3IgLQogZXZlbnRzIGJldHdlZW4gcml2YWwgdGVhbXMgYW5kIGV2ZW4gYXMgYSBwb3B1bGFyIC0&s=cv05IMlr&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "sporting \nringtone",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=c3BvcnRpbmcgCnJpbmd0b25l&s=W6Qxxqjh",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=c3BvcnRpbmcgCnJpbmd0b25l&s=W6Qxxqjh&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 19586409156,
+          "studiableContainerType": 1,
+          "studiableContainerId": 544748869,
+          "type": 2,
+          "rank": 6,
+          "creatorId": 115776700,
+          "timestamp": 1604747947,
+          "lastModified": 1604747947,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "Film music always matches the mood of the action on the screen.",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=RmlsbSBtdXNpYyBhbHdheXMgbWF0Y2hlcyB0aGUgbW9vZCBvZiB0aGUgYWN0aW9uIG9uIHRoZSBzY3JlZW4u&s=ohTpih91",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=RmlsbSBtdXNpYyBhbHdheXMgbWF0Y2hlcyB0aGUgbW9vZCBvZiB0aGUgYWN0aW9uIG9uIHRoZSBzY3JlZW4u&s=ohTpih91&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "False",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=RmFsc2U&s=LUEecDpI",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=RmFsc2U&s=LUEecDpI&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 19586410069,
+          "studiableContainerType": 1,
+          "studiableContainerId": 544748869,
+          "type": 2,
+          "rank": 7,
+          "creatorId": 115776700,
+          "timestamp": 1604747971,
+          "lastModified": 1604747971,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "Who wrote the score for the Lord of the Rings trilogy?",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=V2hvIHdyb3RlIHRoZSBzY29yZSBmb3IgdGhlIExvcmQgb2YgdGhlIFJpbmdzIHRyaWxvZ3k.&s=GqRZV6zj",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=V2hvIHdyb3RlIHRoZSBzY29yZSBmb3IgdGhlIExvcmQgb2YgdGhlIFJpbmdzIHRyaWxvZ3k.&s=GqRZV6zj&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "Howard Shore",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=SG93YXJkIFNob3Jl&s=Djd4gZCW",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=SG93YXJkIFNob3Jl&s=Djd4gZCW&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 19586412544,
+          "studiableContainerType": 1,
+          "studiableContainerId": 544748869,
+          "type": 2,
+          "rank": 8,
+          "creatorId": 115776700,
+          "timestamp": 1604748024,
+          "lastModified": 1604748024,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "Which are true about John Williams and his career?",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=V2hpY2ggYXJlIHRydWUgYWJvdXQgSm9obiBXaWxsaWFtcyBhbmQgaGlzIGNhcmVlcj8&s=qhyjM4Mr",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=V2hpY2ggYXJlIHRydWUgYWJvdXQgSm9obiBXaWxsaWFtcyBhbmQgaGlzIGNhcmVlcj8&s=qhyjM4Mr&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "He began composing for television in the 1950s.\nHe wrote Barack Obama's inauguration music.\nHe wrote the music for Home Alone.",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=SGUgYmVnYW4gY29tcG9zaW5nIGZvciB0ZWxldmlzaW9uIGluIHRoZSAxOTUwcy4KSGUgd3JvdGUgQmFyYWNrIE9iYW1hJ3MgaW5hdWd1cmF0aW9uIG11c2ljLgpIZSB3cm90ZSB0aGUgbXVzaWMgZm9yIEhvbWUgQWxvbmUu&s=TDAt6efZ",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=SGUgYmVnYW4gY29tcG9zaW5nIGZvciB0ZWxldmlzaW9uIGluIHRoZSAxOTUwcy4KSGUgd3JvdGUgQmFyYWNrIE9iYW1hJ3MgaW5hdWd1cmF0aW9uIG11c2ljLgpIZSB3cm90ZSB0aGUgbXVzaWMgZm9yIEhvbWUgQWxvbmUu&s=TDAt6efZ&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 19586417691,
+          "studiableContainerType": 1,
+          "studiableContainerId": 544748869,
+          "type": 2,
+          "rank": 9,
+          "creatorId": 115776700,
+          "timestamp": 1604748082,
+          "lastModified": 1604748082,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "Which best describe the musical characteristics of the opening theme of John Williams's Imperial March from Star Wars?",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=V2hpY2ggYmVzdCBkZXNjcmliZSB0aGUgbXVzaWNhbCBjaGFyYWN0ZXJpc3RpY3Mgb2YgdGhlIG9wZW5pbmcgdGhlbWUgb2YgSm9obiBXaWxsaWFtcydzIEltcGVyaWFsIE1hcmNoIGZyb20gU3RhciBXYXJzPw&s=UZkqe-YC",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=V2hpY2ggYmVzdCBkZXNjcmliZSB0aGUgbXVzaWNhbCBjaGFyYWN0ZXJpc3RpY3Mgb2YgdGhlIG9wZW5pbmcgdGhlbWUgb2YgSm9obiBXaWxsaWFtcydzIEltcGVyaWFsIE1hcmNoIGZyb20gU3RhciBXYXJzPw&s=UZkqe-YC&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "disjunct melody\nminor tonality\nrepeated rhythmic ostinati",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=ZGlzanVuY3QgbWVsb2R5Cm1pbm9yIHRvbmFsaXR5CnJlcGVhdGVkIHJoeXRobWljIG9zdGluYXRp&s=QTSx.Ab8",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=ZGlzanVuY3QgbWVsb2R5Cm1pbm9yIHRvbmFsaXR5CnJlcGVhdGVkIHJoeXRobWljIG9zdGluYXRp&s=QTSx.Ab8&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 19586428006,
+          "studiableContainerType": 1,
+          "studiableContainerId": 544748869,
+          "type": 2,
+          "rank": 10,
+          "creatorId": 115776700,
+          "timestamp": 1604748163,
+          "lastModified": 1604748163,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "When the mood of the music contradicts what is being shown on the screen, what is it called?",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=V2hlbiB0aGUgbW9vZCBvZiB0aGUgbXVzaWMgY29udHJhZGljdHMgd2hhdCBpcyBiZWluZyBzaG93biBvbiB0aGUgc2NyZWVuLCB3aGF0IGlzIGl0IGNhbGxlZD8&s=He0igPY.",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=V2hlbiB0aGUgbW9vZCBvZiB0aGUgbXVzaWMgY29udHJhZGljdHMgd2hhdCBpcyBiZWluZyBzaG93biBvbiB0aGUgc2NyZWVuLCB3aGF0IGlzIGl0IGNhbGxlZD8&s=He0igPY.&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "running counter to the action",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=cnVubmluZyBjb3VudGVyIHRvIHRoZSBhY3Rpb24&s=XE0yjNVb",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=cnVubmluZyBjb3VudGVyIHRvIHRoZSBhY3Rpb24&s=XE0yjNVb&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 19586430704,
+          "studiableContainerType": 1,
+          "studiableContainerId": 544748869,
+          "type": 2,
+          "rank": 11,
+          "creatorId": 115776700,
+          "timestamp": 1604748194,
+          "lastModified": 1604748194,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "John Williams unifies his film scores using a technique also found in which?",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=Sm9obiBXaWxsaWFtcyB1bmlmaWVzIGhpcyBmaWxtIHNjb3JlcyB1c2luZyBhIHRlY2huaXF1ZSBhbHNvIGZvdW5kIGluIHdoaWNoPw&s=tcGRadvm",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=Sm9obiBXaWxsaWFtcyB1bmlmaWVzIGhpcyBmaWxtIHNjb3JlcyB1c2luZyBhIHRlY2huaXF1ZSBhbHNvIGZvdW5kIGluIHdoaWNoPw&s=tcGRadvm&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "Wagner's music dramas",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=V2FnbmVyJ3MgbXVzaWMgZHJhbWFz&s=bylX-Ses",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=V2FnbmVyJ3MgbXVzaWMgZHJhbWFz&s=bylX-Ses&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 19586433352,
+          "studiableContainerType": 1,
+          "studiableContainerId": 544748869,
+          "type": 2,
+          "rank": 12,
+          "creatorId": 115776700,
+          "timestamp": 1604748236,
+          "lastModified": 1604748236,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "Underscoring in film music refers to which?",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=VW5kZXJzY29yaW5nIGluIGZpbG0gbXVzaWMgcmVmZXJzIHRvIHdoaWNoPw&s=A6K2VrC3",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=VW5kZXJzY29yaW5nIGluIGZpbG0gbXVzaWMgcmVmZXJzIHRvIHdoaWNoPw&s=A6K2VrC3&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "music coming from an unseen source",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=bXVzaWMgY29taW5nIGZyb20gYW4gdW5zZWVuIHNvdXJjZQ&s=VgKA85S4",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=bXVzaWMgY29taW5nIGZyb20gYW4gdW5zZWVuIHNvdXJjZQ&s=VgKA85S4&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 19586437768,
+          "studiableContainerType": 1,
+          "studiableContainerId": 544748869,
+          "type": 2,
+          "rank": 13,
+          "creatorId": 115776700,
+          "timestamp": 1604748271,
+          "lastModified": 1604748271,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "The movie -\n is an example of a soundtrack that uses only source music.",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=VGhlIG1vdmllIC0KIGlzIGFuIGV4YW1wbGUgb2YgYSBzb3VuZHRyYWNrIHRoYXQgdXNlcyBvbmx5IHNvdXJjZSBtdXNpYy4&s=SZiI5b7s",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=VGhlIG1vdmllIC0KIGlzIGFuIGV4YW1wbGUgb2YgYSBzb3VuZHRyYWNrIHRoYXQgdXNlcyBvbmx5IHNvdXJjZSBtdXNpYy4&s=SZiI5b7s&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "Rear Window",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=UmVhciBXaW5kb3c&s=eynevJEh",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=UmVhciBXaW5kb3c&s=eynevJEh&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 19586439743,
+          "studiableContainerType": 1,
+          "studiableContainerId": 544748869,
+          "type": 2,
+          "rank": 14,
+          "creatorId": 115776700,
+          "timestamp": 1604748312,
+          "lastModified": 1604748312,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "Which of the following movies includes a famous scene in which the film music runs counter to the action?",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=V2hpY2ggb2YgdGhlIGZvbGxvd2luZyBtb3ZpZXMgaW5jbHVkZXMgYSBmYW1vdXMgc2NlbmUgaW4gd2hpY2ggdGhlIGZpbG0gbXVzaWMgcnVucyBjb3VudGVyIHRvIHRoZSBhY3Rpb24.&s=cXSzP35Z",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=V2hpY2ggb2YgdGhlIGZvbGxvd2luZyBtb3ZpZXMgaW5jbHVkZXMgYSBmYW1vdXMgc2NlbmUgaW4gd2hpY2ggdGhlIGZpbG0gbXVzaWMgcnVucyBjb3VudGVyIHRvIHRoZSBhY3Rpb24.&s=cXSzP35Z&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "The Godfather",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=VGhlIEdvZGZhdGhlcg&s=25lX-ICE",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=VGhlIEdvZGZhdGhlcg&s=25lX-ICE&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 19586444771,
+          "studiableContainerType": 1,
+          "studiableContainerId": 544748869,
+          "type": 2,
+          "rank": 15,
+          "creatorId": 115776700,
+          "timestamp": 1604748340,
+          "lastModified": 1604748340,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "Which composer wrote the scores to the first three Harry Potter films?",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=V2hpY2ggY29tcG9zZXIgd3JvdGUgdGhlIHNjb3JlcyB0byB0aGUgZmlyc3QgdGhyZWUgSGFycnkgUG90dGVyIGZpbG1zPw&s=dZGHJp41",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=V2hpY2ggY29tcG9zZXIgd3JvdGUgdGhlIHNjb3JlcyB0byB0aGUgZmlyc3QgdGhyZWUgSGFycnkgUG90dGVyIGZpbG1zPw&s=dZGHJp41&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "John Williams",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=Sm9obiBXaWxsaWFtcw&s=ngkC0WgU",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=Sm9obiBXaWxsaWFtcw&s=ngkC0WgU&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 19586446849,
+          "studiableContainerType": 1,
+          "studiableContainerId": 544748869,
+          "type": 2,
+          "rank": 16,
+          "creatorId": 115776700,
+          "timestamp": 1604748366,
+          "lastModified": 1604748366,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "The vocal music in the 2009 film Avatar is sung in which language?",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=VGhlIHZvY2FsIG11c2ljIGluIHRoZSAyMDA5IGZpbG0gQXZhdGFyIGlzIHN1bmcgaW4gd2hpY2ggbGFuZ3VhZ2U.&s=b7hJJMh6",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=VGhlIHZvY2FsIG11c2ljIGluIHRoZSAyMDA5IGZpbG0gQXZhdGFyIGlzIHN1bmcgaW4gd2hpY2ggbGFuZ3VhZ2U.&s=b7hJJMh6&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "Na'vi",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=TmEndmk&s=rF4e4.Z.",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=TmEndmk&s=rF4e4.Z.&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 19586449415,
+          "studiableContainerType": 1,
+          "studiableContainerId": 544748869,
+          "type": 2,
+          "rank": 17,
+          "creatorId": 115776700,
+          "timestamp": 1604748393,
+          "lastModified": 1604748393,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "The most important function of music in film is to -",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=VGhlIG1vc3QgaW1wb3J0YW50IGZ1bmN0aW9uIG9mIG11c2ljIGluIGZpbG0gaXMgdG8gLQ&s=n0TVHREN",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=VGhlIG1vc3QgaW1wb3J0YW50IGZ1bmN0aW9uIG9mIG11c2ljIGluIGZpbG0gaXMgdG8gLQ&s=n0TVHREN&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "set the mood",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=c2V0IHRoZSBtb29k&s=0LCiGa2f",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=c2V0IHRoZSBtb29k&s=0LCiGa2f&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 19586450615,
+          "studiableContainerType": 1,
+          "studiableContainerId": 544748869,
+          "type": 2,
+          "rank": 18,
+          "creatorId": 115776700,
+          "timestamp": 1604748409,
+          "lastModified": 1604748409,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "Darth Vader's theme first appeared in The Empire Strikes Back.",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=RGFydGggVmFkZXIncyB0aGVtZSBmaXJzdCBhcHBlYXJlZCBpbiBUaGUgRW1waXJlIFN0cmlrZXMgQmFjay4&s=0548BPxK",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=RGFydGggVmFkZXIncyB0aGVtZSBmaXJzdCBhcHBlYXJlZCBpbiBUaGUgRW1waXJlIFN0cmlrZXMgQmFjay4&s=0548BPxK&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "T",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=VA&s=NeXRzrRf",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=VA&s=NeXRzrRf&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 19586453062,
+          "studiableContainerType": 1,
+          "studiableContainerId": 544748869,
+          "type": 2,
+          "rank": 19,
+          "creatorId": 115776700,
+          "timestamp": 1604748438,
+          "lastModified": 1604748438,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 1,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "- is credited as having revived the grand symphonic film score.",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=LSBpcyBjcmVkaXRlZCBhcyBoYXZpbmcgcmV2aXZlZCB0aGUgZ3JhbmQgc3ltcGhvbmljIGZpbG0gc2NvcmUu&s=cDKgT8QZ",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=LSBpcyBjcmVkaXRlZCBhcyBoYXZpbmcgcmV2aXZlZCB0aGUgZ3JhbmQgc3ltcGhvbmljIGZpbG0gc2NvcmUu&s=cDKgT8QZ&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 2,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "John Williams",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=Sm9obiBXaWxsaWFtcw&s=ngkC0WgU",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=Sm9obiBXaWxsaWFtcw&s=ngkC0WgU&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        }
+      ],
+      "setIdToDiagramImage": {},
+      "accents": {
+        "word": [],
+        "definition": []
+      },
+      "diagramImages": [],
+      "editableStudiableItemIds": [],
+      "selectedTerms": {},
+      "starredStudiableItemIds": [],
+      "studiableContainer": {
+        "id": 544748869,
+        "timestamp": 1604747684,
+        "lastModified": 1604748465,
+        "publishedTimestamp": 1604748465,
+        "creatorId": 115776700,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "Chapter 54. Underscoring Meaning: Williams and Music for Film",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 20,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/544748869/chapter-54-underscoring-meaning-williams-and-music-for-film-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0
+      },
+      "studiableContainerType": 1,
+      "crossModeResetTimestamp": null
+    },
+    "sessions": {
+      "initialSessions": {
+        "unstarred": null,
+        "starred": null
+      },
+      "personId": "-7207687064164492688",
+      "sessionLuid": null
+    },
+    "settings": {
+      "ad": {
+        "adModalShownAt": 1715827848369,
+        "adModalTimesShown": 0,
+        "adsIds": {
+          "sidebarAdsId": null,
+          "footerAdsId": null
+        },
+        "isBrandedContentSet": false,
+        "lastActionTimestamp": null,
+        "shouldShowAd": true,
+        "shouldShowNewStudyBreak": false
+      },
+      "display": {
+        "canEditRichText": false,
+        "hiddenSettings": [
+          8,
+          20,
+          21,
+          31
+        ],
+        "isEmbedding": false,
+        "isOptionsModalOpen": false,
+        "modePath": "/544748869/flashcards",
+        "personId": "-7207687064164492688",
+        "shouldHideEmbedControl": false,
+        "shouldShowQChatLink": false,
+        "shouldShowStudyTopNav": true,
+        "starredModePath": "/544748869/flashcards/starred",
+        "studyModeType": 2
+      },
+      "preference": {
+        "acceptsPartialAnswer": false,
+        "advancedAudioSettings": {
+          "wordEnabled": true,
+          "definitionEnabled": true,
+          "slowWordEnabled": false,
+          "slowDefinitionEnabled": false
+        },
+        "answerWith": {
+          "definition": true,
+          "location": true,
+          "term": false
+        },
+        "cardsShuffleSeed": null,
+        "isAudioOn": false,
+        "learnSoundEffectsOn": true,
+        "locationQuestionTypes": [],
+        "promptWith": {
+          "definition": false,
+          "location": false,
+          "term": true
+        },
+        "questionTypes": {
+          "copyAnswer": false,
+          "fillInTheBlank": false,
+          "matching": false,
+          "multipleChoice": false,
+          "multipleChoiceWithNoneOption": false,
+          "revealSelfAssessment": false,
+          "written": false,
+          "spelling": false
+        },
+        "shuffle": false,
+        "smartGrading": true,
+        "sortingOn": false,
+        "spacedRepetitionOn": true,
+        "studyPath": null,
+        "studyPathGoal": null,
+        "studyPathKnowledgeLevel": null,
+        "studyStarredOnly": false,
+        "typoHelpGradingSetting": null,
+        "writtenTypes": null
+      },
+      "abTest": {
+        "shouldShowTestToLearn": false,
+        "shouldShowUnderstandingTask": false
+      }
+    },
+    "metering": {
+      "meteringData": null
+    },
+    "onboarding": {
+      "daysSinceLastVisit": 0
+    }
+  },
+  "spacedRepetition/memoryScoreData": {
+    "answerHistory": [],
+    "educationModalOpen": {
+      "memoryScore": false,
+      "spacedRepetition": false
+    },
+    "hasTriggeredSrsEligibility": null,
+    "isShowingSsrOnCoachmark": false,
+    "memoryScoreData": null,
+    "reviewMode": "non_srs",
+    "shouldSkipOnboarding": true,
+    "wantsScheduledReviewReminders": false
+  }
+}
