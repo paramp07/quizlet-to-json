@@ -56,7 +56,7 @@ export default function Main() {
             value={url}
             onChange={(e) => setUrl(e.target.value)}
             placeholder="Enter the Quizlet URL"
-            class="searchInput bg-quizlet-gray bg-opacity-70 rounded-full p-3 px-5 w-full text-gray-300 placeholder:text-gray-500 inline-block"
+            className="searchInput bg-quizlet-gray bg-opacity-70 rounded-full p-3 px-5 w-full text-gray-300 placeholder:text-gray-500 inline-block"
           />
 
           <TooltipProvider>
