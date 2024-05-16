@@ -32,6 +32,8 @@ export default function Home() {
       <NextSeo {...seoData} />
       <Head>
         <meta name="google-site-verification" content="EgrlpsE3eQVqZY9UMz6TLwCUrgYRLVAUv0RMv3aQgio" />
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6710100518502375"
+     crossorigin="anonymous"></script>
         <title>Quizlet to JSON</title>
       </Head>
       <Header />
