@@ -52,7 +52,7 @@ export default function Home() {
         <p className="text-lg font-bold">Disclaimer</p>
         <p>This website is not affiliated with or endorsed by Quizlet.</p>
         <p>
-          Our use of the name "Quizlet" is for context, not claiming any
+          Our use of the name &ldquo;Quizlet&rdquo; is for context, not claiming any
           ownership. It remains the property of the copyright holder.
         </p>
         <p>
