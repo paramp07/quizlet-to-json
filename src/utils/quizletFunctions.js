@@ -68,7 +68,7 @@ const extractCardData = (parsedData) => {
   const cards = state.studyModesCommon.studiableData.studiableItems;
 
   // Save raw data to a file
-  saveDataToFile(state, "dehydratedkey.json");
+//   saveDataToFile(state, "dehydratedkey.json");
 
   return cards
     .map((card) => {
@@ -118,7 +118,7 @@ const getQuizletSet = async (url) => {
     // const transformedData = transformData(rawData);
     const transformedData = extractCardData(rawData);
     console.log("raw data transformed");
-    saveDataToFile(transformedData, "flashcards.json");
+    // saveDataToFile(transformedData, "flashcards.json");
     console.log("cards saved to flashcards.json");
     return transformedData;
   } catch (error) {

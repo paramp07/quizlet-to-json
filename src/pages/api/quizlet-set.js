@@ -1,6 +1,7 @@
-import getQuizletSet from '../../../utils/quizletFunctions';
+import getQuizletSet from '@/utils/quizletFunctions';
+import rateLimitMiddleware from '@/middleware/rateLimiter';
 
-export default async (req, res) => {
+async function handler(req, res) {
   const { setId } = req.query;
   const url = `https://quizlet.com/${setId}`;
   try {
@@ -13,3 +14,5 @@ export default async (req, res) => {
     res.status(500).json({ error: error.message });
   }
 };
+
+export default rateLimitMiddleware(handler);
