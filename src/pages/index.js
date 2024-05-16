@@ -1,6 +1,6 @@
 import Head from "next/head";
-import Header from "@/components/site/header";
-import Main from "@/components/site/Main";
+import Header from "../components/site/Header";
+import Main from "../components/site/Main";
 import { Inter, Roboto_Mono, Manrope } from 'next/font/google'
  
 export const inter = Inter({
