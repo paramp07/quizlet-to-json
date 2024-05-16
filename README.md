@@ -1,4 +1,4 @@
-[[https://github.com/paramp07/quizlet-to-json/blob/main/Banner.jpg?raw=true]]
+![banner](https://github.com/paramp07/quizlet-to-json/blob/main/Banner.jpg?raw=true)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
