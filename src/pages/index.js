@@ -31,6 +31,7 @@ export default function Home() {
       <DefaultSeo {...seoData} />
       <NextSeo {...seoData} />
       <Head>
+        <meta name="google-site-verification" content="EgrlpsE3eQVqZY9UMz6TLwCUrgYRLVAUv0RMv3aQgio" />
         <title>Quizlet to JSON</title>
       </Head>
       <Header />
