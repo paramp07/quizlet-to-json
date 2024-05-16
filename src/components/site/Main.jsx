@@ -88,7 +88,7 @@ export default function Main() {
 
         <div className="bg-neutral-600 w-full h-[500px] rounded-lg mt-8">
           <pre className="w-full">
-            <code className="w-max">
+            <code className="w-max" placeholder='fg'>
               {result && JSON.stringify(result, null, 2)}
             </code>
           </pre>
