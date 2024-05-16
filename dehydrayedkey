@@ -1,0 +1,3193 @@
+{
+  "siteNav": {
+    "activityCenterPendingNotifications": 0,
+    "canCreateClass": false,
+    "canCreateNotes": false,
+    "classMemberships": [],
+    "isClassProgressUpsellModalOpen": false,
+    "isCreateClassModalOpen": false,
+    "isCreateFolderModalOpen": false,
+    "isCreateImageSetUpsellModalOpen": false,
+    "isCreateSetModalOpen": false,
+    "isMobileNavOpen": false,
+    "isSideNavOpen": true,
+    "magicLinkTriggeredByFacebookLoginClick": false,
+    "onboardingFlow": null,
+    "openedAuthModal": null,
+    "practiceTestsEligibility": null,
+    "userSchools": {},
+    "bookmarkedFolders": [],
+    "user": null,
+    "userPurchasesCount": 0
+  },
+  "login": {
+    "form": {
+      "password": "",
+      "username": ""
+    },
+    "hasMultipleAccounts": false,
+    "numFailedAttempts": 0,
+    "openedAuthModal": null,
+    "validationErrorsByInputName": {
+      "generic": []
+    },
+    "wasSubmitted": false,
+    "magicLinkUsername": "",
+    "redir": ""
+  },
+  "core": {
+    "acknowledgedOnboardingSteps": {},
+    "shouldShowAd": false,
+    "user": null,
+    "isBrowseNavOpen": false
+  },
+  "edgyData": {
+    "courses": {
+      "ids": [],
+      "entities": {},
+      "initialIds": null,
+      "codeEnrollments": null,
+      "departments": []
+    },
+    "isCoursesLoading": false,
+    "hasDismissedEdgyDataEmptyState": false,
+    "isConfirmRemoveSchoolModalOpen": false,
+    "isEdgyDataModalOpen": false,
+    "isNotesCourseModalOpen": false,
+    "isNativeAppWebView": false,
+    "maxNumOfCourses": 50,
+    "schools": {
+      "selectedSchool": null,
+      "userCountryCode": null,
+      "initialSchool": null
+    },
+    "shouldRedirectOnEnd": true,
+    "shouldShowEdgyData": true,
+    "startScreen": "collect_school",
+    "user": null
+  },
+  "userPrompts": {
+    "canResendConfirmationEmail": false,
+    "formattedTeacherUpsellMonthlyPrice": "",
+    "hasExceededMaxConfirmationEmailResends": false,
+    "requestUri": "",
+    "shouldShowConfirmEmailPrompt": false,
+    "supportEmail": "",
+    "isConfirmEmailModalOpen": false,
+    "isTeacherUpsellModalOpen": false
+  },
+  "setPage": {
+    "alphabeticalIsDifferent": true,
+    "alphabeticalOrder": [
+      1747534481485831,
+      1747534481485833,
+      1747534481485834,
+      1747534481485835,
+      1747534481485836,
+      1747534481485837,
+      1747534481485832,
+      1747534481485842,
+      1747534481485841,
+      1747534481485844,
+      1747534481485839,
+      1747534481485840,
+      1747534481485843,
+      1747534481485838,
+      1747534481485845,
+      1747534481485846,
+      1747534481485847
+    ],
+    "adminToolsData": null,
+    "breadcrumbs": null,
+    "canCopySet": false,
+    "canCreateClass": false,
+    "canEditRichText": false,
+    "canEditSet": false,
+    "canExportSet": false,
+    "classesToAddSetTo": [],
+    "classProgressUpsellModalShowCount": null,
+    "countryCodeSubfolder": null,
+    "creator": {
+      "id": 188055338,
+      "username": "alexandra777772",
+      "timestamp": 1600656224,
+      "lastModified": 1672444177,
+      "type": 0,
+      "isLocked": false,
+      "selfIdentifiedTeacherStatus": 0,
+      "_imageUrl": "https://up.quizlet.com/33yofe-r9mfX-256s.jpg",
+      "timeZone": "America/Chicago",
+      "isAdmin": false
+    },
+    "crossModeResetTimestamp": null,
+    "currentPersonId": null,
+    "diagramImage": null,
+    "displayCreatedAtDateVariant": "variant2",
+    "diagramShapes": null,
+    "dwebSidebarButtonsVariant": "control",
+    "onboardingSteps": {
+      "firstSetSave": false,
+      "shouldShowAddToClassPopover": false,
+      "isEligibleToSeeTeacherOnboardingPreviewCard": false
+    },
+    "educationQAndAData": {
+      "@context": "https://schema.org/",
+      "@type": "Quiz",
+      "about": {
+        "@type": "Thing",
+        "name": "ENGL 1301 WORDINESS/ CLUTTER NOTES AND QUIZ"
+      },
+      "hasPart": [
+        {
+          "@context": "https://schema.org/",
+          "@type": "Question",
+          "eduQuestionType": "Flashcard",
+          "text": "NOTES:",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "• Use concise words: wordiness or overloaded sentences means using more words than necessary to express an idea. Reducing wordiness or cutting clutter means to get rid of words that only take space and add no meaning."
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Question",
+          "eduQuestionType": "Flashcard",
+          "text": "NOTES:",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "• Notice the wordy and short forms below:\n\nWordy Form: \n- at the present time \n- in the event of \n- in the near future \n- due to the fact that \n- in this day and age \n- during the time that \n- a large number of \n- big in size \n- red in color\n——————————-\nShort Form: \n- now\n- if\n- soon\n- because \n- now\n- while \n- many\n- big\n- red"
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Question",
+          "eduQuestionType": "Flashcard",
+          "text": "NOTES:",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Revise the following sentences, omitting needless words: \n\n1. The bird was purple, red, orange and yellow in color and its body was extremely large.\nANSWER: The bird was purple, red, orange, and yellow. (The sentence is clearer and easier to read)\n\n\n2 A large number of people are now seeking out various electronic devices as presents to give to others on their birthdays.\nANSWER: Many people now buy devices to give as gifts.\n\n\n3. Because of the bad weather, the school district felt it would be safer to cancel classes and let everyone stay home than to risk people having accidents on the way to school.\nANSWER : The school district cancelled classes due to bad weather."
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Question",
+          "eduQuestionType": "Flashcard",
+          "text": "NOTES:",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The following words are clutter:\n\nCut words such as: well, literally, of course, like, super, due to the fact that, in my opinion, I think, I believe.\n\nCut qualifiers such as: very, really, quite, extremely, especially, pretty, exceptionally, rather or kind of, somewhat"
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Question",
+          "eduQuestionType": "Flashcard",
+          "text": "NOTES:",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The following phrases are clutter too:\n\nas I was saying, I remember as it were yesterday, In this world we live in, now a days"
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Question",
+          "eduQuestionType": "Flashcard",
+          "text": "NOTES:",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Other examples of clutter:\n\n1. He had a smile on his face. Instead write: He smiled. (It&#039;s understood were the smile is)\n\n2. I ended up driving to Houston. Instead write, I drove to Houston.\n\n3. I screamed my lungs out. Instead write, I screamed."
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Question",
+          "eduQuestionType": "Flashcard",
+          "text": "NOTES:",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Read the cluttered sentences. Then, read the corrections. Cut clutter with brackets [ ].\n\n1. [All in all] high school is a place to meet [all kinds of] people.\nCorrection: High school is a place to meet people.\n\n2. The noise got louder [and louder.]\nCorrection: The noise got louder.\n\n3. The baby cried [and cried.]\nCorrection: The baby cried.\n\n4. [Well] this bell was not here [back then.]\nCorrection: This bell was not here.\n\n5. I remember the incident [as if it were yesterday.]\nCorrection: I remember the incident\n\n6. [Anyway, as I was saying,] he set [us up] with the instructor.\nCorrection: He set an appointment with the instructor.\n\n7. [Finally, last but not least] the customers returned the merchandise.\nCorrection: The customers returned the merchandise."
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Question",
+          "eduQuestionType": "Flashcard",
+          "text": "QUIZ: In the following sentence, the underlined phrase or clause may contain empty words or an unnecessary expletive. Select the answer option that is the best replacement; or, if the underlined text is the best choice, select No change.\n\n Stewart is REALLY SMART and has a quick wit.",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Answer: BRILLIANT"
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Question",
+          "eduQuestionType": "Flashcard",
+          "text": "QUIZ: In the following sentence, the underlined phrase or clause may contain empty words or an unnecessary expletive. Select the answer option that is the best replacement; or, if the underlined text is the best choice, select No change.\n\n Jon Stewart has made AN EXTREMELY UNIQUE contribution to television news commentary.",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Answer: A UNIQUE"
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Question",
+          "eduQuestionType": "Flashcard",
+          "text": "QUIZ: In the following sentence, the underlined phrase or clause may contain empty words or an unnecessary expletive. Select the answer option that is the best replacement; or, if the underlined text is the best choice, select No change.\n\n MANY TALENTED COMEDIANS are on The Daily Show.",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Answer: NO CHANGE"
+          }
+        }
+      ]
+    },
+    "embedInfoByMode": [
+      {
+        "displayName": "Match",
+        "modeType": 5
+      },
+      {
+        "displayName": "Learn",
+        "modeType": 17
+      },
+      {
+        "displayName": "Test",
+        "modeType": 3
+      },
+      {
+        "displayName": "Flashcards",
+        "modeType": 2
+      },
+      {
+        "displayName": "Spell",
+        "modeType": 8
+      }
+    ],
+    "expertExplanationsModalVariant": null,
+    "expertVerifiedQuestions": [],
+    "explanationsSolutionsAmount": 1000000,
+    "folder": null,
+    "foldersToAddSetTo": [],
+    "funnelUUID": "aed95ea4-321e-4eaf-b2e0-337fbdfce89c",
+    "hasAdvancedDiagramShapes": false,
+    "hasAnyAnswers": false,
+    "hasBeenShownStudyOnboarding": false,
+    "hasClasses": false,
+    "hasCustomAudio": false,
+    "hasDiagramWithMorePointsThanFreeLimit": false,
+    "isFirstCreatedSetModalOpen": false,
+    "isInTeacherSetPageNavigationV2": false,
+    "hasRichText": false,
+    "hasUploadedImage": false,
+    "includedInFolder": null,
+    "isAdsInCardsPreviewEnabled": false,
+    "isBCSEnabled": false,
+    "isCreatorUnderageAndUnconfirmed": false,
+    "isDeletable": false,
+    "isDiagramSet": false,
+    "isEditable": false,
+    "isEligibleForBrainBeats": false,
+    "isEligibleToSeeTeacherOnboardingPreviewCard": false,
+    "isEnrolledInLOTestMode": true,
+    "isFireflySharingEnabled": false,
+    "isFlaggedForProfanity": false,
+    "isLearnHighlighted": false,
+    "isNewSetShareModalOpen": false,
+    "isPaidTeacher": false,
+    "isPublic": true,
+    "isReportingFlowBlocked": false,
+    "isSetViableForClassProgress": false,
+    "isTeacher": false,
+    "isTermsListNudgeDismissed": false,
+    "likelyToRankSets": null,
+    "mainSchool": null,
+    "metering": {
+      "meteringData": null
+    },
+    "newSetShareUrls": null,
+    "numTimesStudyValuePropUpsellModalDismissed": 0,
+    "onboardingCoachmarkType": null,
+    "originalOrder": [
+      1747534481485831,
+      1747534481485832,
+      1747534481485833,
+      1747534481485834,
+      1747534481485835,
+      1747534481485836,
+      1747534481485837,
+      1747534481485838,
+      1747534481485839,
+      1747534481485840,
+      1747534481485841,
+      1747534481485842,
+      1747534481485843,
+      1747534481485844,
+      1747534481485845,
+      1747534481485846,
+      1747534481485847
+    ],
+    "pagingMeta": {
+      "page": 1,
+      "perPage": 100,
+      "token": "qf2wA9FTFk.vY2ju9RKtFgH4kseq",
+      "total": 17
+    },
+    "purchasableType": 0,
+    "qChatLinkDisabledReason": "unknownUser",
+    "randomSeed": 869,
+    "ratingAverage": null,
+    "reengagementModalType": null,
+    "recommendedSets": [
+      {
+        "id": 335386009,
+        "timestamp": 1541103851,
+        "lastModified": 1541103852,
+        "publishedTimestamp": 1541103852,
+        "creatorId": 98718311,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "Quiz 7: eliminating wordiness",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 10,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 3,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/335386009/quiz-7-eliminating-wordiness-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 98718311,
+          "username": "abbey_crandall",
+          "timestamp": 1538594923,
+          "lastModified": 1633534187,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://assets.quizlet.com/a/j/dist/app/i/animals/116.9aaedd4f4495837.jpg",
+          "timeZone": "America/Denver"
+        }
+      },
+      {
+        "id": 774620521,
+        "timestamp": 1676506949,
+        "lastModified": 1676507279,
+        "publishedTimestamp": 1676507279,
+        "creatorId": 51005949,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "LANGUAGE #11: Empty Words",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 10,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/774620521/language-11-empty-words-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 51005949,
+          "username": "Emily_Villalobos9",
+          "timestamp": 1478105571,
+          "lastModified": 1695187370,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://up.quizlet.com/ud8fx-z3vGT-256s.png",
+          "timeZone": "America/Los_Angeles"
+        }
+      },
+      {
+        "id": 902455170,
+        "timestamp": 1712670137,
+        "lastModified": 1712670424,
+        "publishedTimestamp": 1712670137,
+        "creatorId": 275330145,
+        "wordLang": "es",
+        "defLang": "en",
+        "title": "Common Spanish Verbs",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 52,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/902455170/common-spanish-verbs-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "magicNoteUuid": "d5d9cf17-48a9-4b91-bcd9-6367c756c9e3",
+        "_creator": {
+          "id": 275330145,
+          "username": "Jonah_Myers11",
+          "timestamp": 1660831502,
+          "lastModified": 1715745010,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 0,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocKXGA7ylgWcmxmHHWdwh-F_zrDHeY3FESa9jmcE0lFU=s96-c?sz=150",
+          "timeZone": "America/Chicago"
+        }
+      },
+      {
+        "id": 897981991,
+        "timestamp": 1711463897,
+        "lastModified": 1712024338,
+        "publishedTimestamp": 1711463897,
+        "creatorId": 253595940,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "A&P: Epithelial Tissues Questions",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 11,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/897981991/ap-epithelial-tissues-questions-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "magicNoteUuid": "e7321973-c237-4877-a955-edadc7d79c9a",
+        "_creator": {
+          "id": 253595940,
+          "username": "R3Crossman",
+          "timestamp": 1641868052,
+          "lastModified": 1715781181,
+          "type": 1,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocLarC009INA57j3gxbRMfKNXLHZN-EzmXEVcNhHbKg3=s96-c?sz=150",
+          "timeZone": "America/New_York"
+        }
+      },
+      {
+        "id": 320879898,
+        "timestamp": 1538078276,
+        "lastModified": 1538081843,
+        "publishedTimestamp": 1538081843,
+        "creatorId": 58030111,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "Ch. 8 Homework Quiz",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "93.34%",
+        "numTerms": 21,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/320879898/ch-8-homework-quiz-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 58030111,
+          "username": "hannahdupe",
+          "timestamp": 1488944904,
+          "lastModified": 1675376373,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://assets.quizlet.com/a/j/dist/app/i/animals/116.9aaedd4f4495837.jpg",
+          "timeZone": "America/Chicago"
+        }
+      },
+      {
+        "id": 462515375,
+        "timestamp": 1575667261,
+        "lastModified": 1575674997,
+        "publishedTimestamp": 1575672543,
+        "creatorId": 69438001,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "English 3 H- Unit 4 Test",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "This quizlet has:\n-Summaries for all the Unit 4 Readings\n-Essential question\n-Definitions for main language and meaning (imagery, hyperbole, etc.)\n-Analyze the text questions (EXCEPT FOR WILDERNESS AND CHICAGO - because they were just compare and contrast questions)",
+        "numTerms": 36,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/462515375/english-3-h-unit-4-test-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 69438001,
+          "username": "Pinkie11003",
+          "timestamp": 1507077294,
+          "lastModified": 1683846820,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 0,
+          "_imageUrl": "https://assets.quizlet.com/a/j/dist/app/i/animals/116.9aaedd4f4495837.jpg",
+          "timeZone": "America/New_York"
+        }
+      },
+      {
+        "id": 890407946,
+        "timestamp": 1709657136,
+        "lastModified": 1709657397,
+        "publishedTimestamp": 1709657397,
+        "creatorId": 185766619,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "X English Texts",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 15,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/890407946/x-english-texts-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 185766619,
+          "username": "beagtfo",
+          "timestamp": 1599855880,
+          "lastModified": 1715310517,
+          "type": 1,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://up.quizlet.com/32lmfv-qqf8W-256s.jpg",
+          "timeZone": "America/New_York",
+          "firstName": "Bea",
+          "lastName": "Lee"
+        }
+      },
+      {
+        "id": 847102525,
+        "timestamp": 1698932277,
+        "lastModified": 1698938760,
+        "publishedTimestamp": 1698936904,
+        "creatorId": 239336007,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "Adult Health - Exam 3 (Sleep, IV Calculations, Blood Transfusions, Parental Therapy) ",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 29,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/847102525/adult-health-exam-3-sleep-iv-calculations-blood-transfusions-parental-therapy-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 239336007,
+          "username": "Morgan_Paiva7",
+          "timestamp": 1632505579,
+          "lastModified": 1715126572,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 0,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocJhu2hP3GT0yayVp-BYC78DitqxATSTAnCSroN6k14j=s96-c?sz=150",
+          "timeZone": "America/New_York",
+          "firstName": "Morgan",
+          "lastName": "Paiva"
+        }
+      },
+      {
+        "id": 843257794,
+        "timestamp": 1698118118,
+        "lastModified": 1698119619,
+        "publishedTimestamp": 1698119318,
+        "creatorId": 261722163,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "Review Questions-2",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 15,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/843257794/review-questions-2-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 261722163,
+          "username": "Rylee_Gutormson",
+          "timestamp": 1647042008,
+          "lastModified": 1707887052,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 0,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocICNVc1WEizvywJaXscCUJYrcXnsmzN9YIobz4kSBiNESc=s96-c?sz=150",
+          "timeZone": "America/Denver",
+          "firstName": "Rylee",
+          "lastName": "Gutormson"
+        }
+      },
+      {
+        "id": 874733153,
+        "timestamp": 1706121381,
+        "lastModified": 1706121626,
+        "publishedTimestamp": 1706121624,
+        "creatorId": 241524901,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "The Book Thief Vocab #1 Sentences",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 13,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/874733153/the-book-thief-vocab-1-sentences-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 241524901,
+          "username": "Maxfiksler",
+          "timestamp": 1633484037,
+          "lastModified": 1715742494,
+          "type": 1,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 0,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocJLSWQly3DRJlrwFKMJZDlCelxz4ZLkR6Dvuw6uPQWeuyG3P6HL=s96-c?sz=150",
+          "timeZone": "America/New_York"
+        }
+      },
+      {
+        "id": 843032430,
+        "timestamp": 1698085682,
+        "lastModified": 1698086105,
+        "publishedTimestamp": 1698086104,
+        "creatorId": 283442825,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "Week 6",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 10,
+        "hasImages": true,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/843032430/week-6-flash-cards/",
+        "_thumbnailUrl": "https://o.quizlet.com/YukHTMMuQXaalKOzgZcUEQ_m.jpg",
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 283442825,
+          "username": "monsiedg000",
+          "timestamp": 1664566608,
+          "lastModified": 1709317218,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 0,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocKM8b3nIB92POG9G9EudOgdMzlkCSKdwcwoqmWSOVLDclI=s96-c?sz=150",
+          "timeZone": "America/Los_Angeles"
+        }
+      },
+      {
+        "id": 914151818,
+        "timestamp": 1715267167,
+        "lastModified": 1715347497,
+        "publishedTimestamp": 1715272778,
+        "creatorId": 204701223,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "Health Test Chapter 22",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 72,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/914151818/health-test-chapter-22-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 204701223,
+          "username": "Jocelyn3677",
+          "timestamp": 1608088080,
+          "lastModified": 1715803362,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://assets.quizlet.com/a/j/dist/app/i/animals/113.e4b7e1c4ed27afa.jpg",
+          "timeZone": "America/Chicago"
+        }
+      },
+      {
+        "id": 858504708,
+        "timestamp": 1701556695,
+        "lastModified": 1701559170,
+        "publishedTimestamp": 1701559170,
+        "creatorId": 241618388,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "Chapter 1-5 vocab english",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 20,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/858504708/chapter-1-5-vocab-english-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 241618388,
+          "username": "Sophia_Bylecki",
+          "timestamp": 1633527431,
+          "lastModified": 1715612025,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 0,
+          "_imageUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWOkLcoAV2uHu1-zpZIBfZ-QjnXWFawysG1x1553kE8wzcM3qwEwLpYJ3G01KObvi1euALYlMI8Plg8aa9Uk7KsvUQ_TwAlJ8MNLKCoq-1xiIpfTZ8Yo-nLOQcZZOeiQVHilOjp0aYEWSNmsK3Ug8knZR51cJB6yD7wfmuUcLGvgnSPX3-qajuWJl8VnaXMOOZ54V61tJ--CwxtBRuMXMS5j5KrSIJ8YkJn9FX79q-IoWwhqnJwf9v2VCykbCnQa7CjCiOyVZC82bBVy9kliIYcbt4TYI6OJCgWTNGmpR9cdxBj5LUyCERdtZjgAuhSngD7TD0uSvLBCZGEYxL2UVcN2Zj7d51xeIq99StK8M26riWXqPsvTeTkn69wh6f_aw17gsjdHX9Tl_6kjGxJE07AxjcoGcHVBByZozuKyoaZORTG3-NT4KlSYBm_4jBDAtd68uw1ZMPM4F2XDmYWsZhgXbdpvoFyj-4ZskuQ3Xg7GsvCCPlm7aoj4Gn_1MAta77dEyxnMg_QVklTYkTrK2KMlE2UfMpOI5fWA4bL63mmAmSqKjml12h1kwd9VYIck3nXY7LNEkHbyjq_fYa9DUPTgq6g9yLoC0k1b3Amqg-s6sFI3uQmbd1jpFEvobGjqI0ueDEjh044qC9oY3vD7PTG1iIivjgnUvGh7iXKNpoAOtsKJTUqs6JjV-CVvKa2h9ezJQTgAeezffpZksrr3jtNA1douoFxVGzTMJuwP2Ap0mV8qWmhoNhKHxX0IdswWC9-IrCu0RqcXLpsr99UNV0XaH__QOL4wKeznJrIx3k3TZwCx7DsfLUIw1L_BnJj3dzjnpo5pTnyWSUnWtJVRhmoASDKRD-5FhIsA2nUpu0qRI0snRvipWBf4wdXC-p5tuMcmPPEL3Uh7YlPHCG42MRZF2ydQS63unUvFUgyk1Vc8FdT0b25mo_kYujaMdP-U3g0fEQKyh8dZ3NNKods-A=s96-c?sz=150",
+          "timeZone": "America/Chicago"
+        }
+      },
+      {
+        "id": 896819134,
+        "timestamp": 1711139487,
+        "lastModified": 1712926155,
+        "publishedTimestamp": 1712672661,
+        "creatorId": 325756803,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "English 2.2 Quiz ",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 10,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/896819134/english-22-quiz-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 325756803,
+          "username": "jarsan",
+          "timestamp": 1696521009,
+          "lastModified": 1715605600,
+          "type": 1,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocJZKlZ8QJ0C-yHW5m37DPYrWctdPNPE1pf_KW0PCobq2yzO300=s96-c?sz=150",
+          "timeZone": "America/New_York",
+          "firstName": "Jared",
+          "lastName": "Santiago"
+        }
+      },
+      {
+        "id": 894500729,
+        "timestamp": 1710645632,
+        "lastModified": 1710645671,
+        "publishedTimestamp": 1710645633,
+        "creatorId": 67777832,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "Narrator ACT 2, 3",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 10,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/894500729/narrator-act-2-3-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 67777832,
+          "username": "zaallen-244",
+          "timestamp": 1505933967,
+          "lastModified": 1715746876,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 0,
+          "_imageUrl": "https://assets.quizlet.com/a/j/dist/app/i/animals/110.36d90f6882d4593.jpg",
+          "timeZone": "America/Chicago"
+        }
+      },
+      {
+        "id": 873529116,
+        "timestamp": 1705894222,
+        "lastModified": 1705894223,
+        "publishedTimestamp": 1705894223,
+        "creatorId": 183540065,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "Franny Zooey Vocab",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 10,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 2,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/873529116/franny-zooey-vocab-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 183540065,
+          "username": "Owen1094",
+          "timestamp": 1599097971,
+          "lastModified": 1715735763,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 0,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocJ9OcgxldVaAT278FSC4InggVPoLak9IFfJCmFj7S-J=s96-c?sz=150",
+          "timeZone": "America/Chicago"
+        }
+      },
+      {
+        "id": 648174639,
+        "timestamp": 1638643936,
+        "lastModified": 1638647429,
+        "publishedTimestamp": 1638647426,
+        "creatorId": 188382780,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "Hematology Exam 3 - Review Questions from lecture slides",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 27,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/648174639/hematology-exam-3-review-questions-from-lecture-slides-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 188382780,
+          "username": "spacemochee",
+          "timestamp": 1600736034,
+          "lastModified": 1713960666,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://up.quizlet.com/345p30-7TT68-256s.jpg",
+          "timeZone": "America/New_York"
+        }
+      },
+      {
+        "id": 726983761,
+        "timestamp": 1664064399,
+        "lastModified": 1664068671,
+        "publishedTimestamp": 1664068671,
+        "creatorId": 197056402,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "Adult Health Quiz #3: Skin",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 44,
+        "hasImages": true,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/726983761/adult-health-quiz-3-skin-flash-cards/",
+        "_thumbnailUrl": "https://o.quizlet.com/4RAh6CQ9MlWgN6FNjSICdQ_m.jpg",
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 197056402,
+          "username": "gabieh3",
+          "timestamp": 1604006642,
+          "lastModified": 1714249198,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 0,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/AItbvmkn0BQ2U7_lYFbv7yL6CsKqXimCd6bCM6c-M5L8=s96-c?sz=150",
+          "timeZone": "America/New_York",
+          "firstName": "Gabie",
+          "lastName": "Hamm"
+        }
+      },
+      {
+        "id": 674966262,
+        "timestamp": 1646073118,
+        "lastModified": 1646074656,
+        "publishedTimestamp": 1646074656,
+        "creatorId": 27426448,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "Grammer",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 47,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/674966262/grammer-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 27426448,
+          "username": "Jada_Sinisterra",
+          "timestamp": 1440885457,
+          "lastModified": 1714976570,
+          "type": 1,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocIhayi4Kg86AoMZAt0zgH9Hw4tTCs536fjMcjaIjeKq12xGaQ=s96-c?sz=150",
+          "timeZone": "America/Chicago"
+        }
+      },
+      {
+        "id": 660154450,
+        "timestamp": 1642481632,
+        "lastModified": 1642482422,
+        "publishedTimestamp": 1642482422,
+        "creatorId": 18922993,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "HB Kim: Clear Deficiency Heat Single Herbs Practice Questions",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 18,
+        "hasImages": true,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/660154450/hb-kim-clear-deficiency-heat-single-herbs-practice-questions-flash-cards/",
+        "_thumbnailUrl": "https://o.quizlet.com/kFfRdtW.xcqyUiiebYAj.Q_m.png",
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 18922993,
+          "username": "bodysquad",
+          "timestamp": 1415591934,
+          "lastModified": 1715787868,
+          "type": 1,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://assets.quizlet.com/a/j/dist/app/i/animals/107.c3e123902d831a9.jpg",
+          "timeZone": "America/Chicago"
+        }
+      },
+      {
+        "id": 830685583,
+        "timestamp": 1695649499,
+        "lastModified": 1695678434,
+        "publishedTimestamp": 1695651007,
+        "creatorId": 108795708,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "Fundamentals First Exam review with questions",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 64,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/830685583/fundamentals-first-exam-review-with-questions-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 108795708,
+          "username": "kevinMollineda",
+          "timestamp": 1544477387,
+          "lastModified": 1714402899,
+          "type": 1,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocIN_-HWnpV7U_TWlbB7MGT-bsSYOLNlkhvL7DNChVOW=s96-c?sz=150",
+          "timeZone": "America/New_York",
+          "firstName": "Iwa-",
+          "lastName": "-km"
+        }
+      },
+      {
+        "id": 754862583,
+        "timestamp": 1670520360,
+        "lastModified": 1670535742,
+        "publishedTimestamp": 1670530083,
+        "creatorId": 15663849,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "HEALTH ASSESSMENT FINAL",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 53,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/754862583/health-assessment-final-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 15663849,
+          "username": "Chrisanthe_Coufos8",
+          "timestamp": 1410149538,
+          "lastModified": 1708608849,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocK4JtS17sCACgtMTV7b-XzDECJRAGQ2yMOnQy5iSiKM1K4=s96-c?sz=150",
+          "timeZone": null,
+          "firstName": "Chrisanthe",
+          "lastName": "Garilas"
+        }
+      },
+      {
+        "id": 629663493,
+        "timestamp": 1634404514,
+        "lastModified": 1634664713,
+        "publishedTimestamp": 1634457556,
+        "creatorId": 113660143,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "EXAM 3 REVIEW QUESTIONS ATTEMPT 2",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 5,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/629663493/exam-3-review-questions-attempt-2-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 113660143,
+          "username": "leahjo3jo",
+          "timestamp": 1548368045,
+          "lastModified": 1709771865,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocIp4kNcUAhCkYyS1Ka-Nj4cm21BTu6wly29cV-XAAav6rA=s96-c?sz=150",
+          "timeZone": "America/Chicago",
+          "firstName": "Leah",
+          "lastName": "Algarin Cotto"
+        }
+      },
+      {
+        "id": 672351236,
+        "timestamp": 1645415319,
+        "lastModified": 1645419466,
+        "publishedTimestamp": 1645419137,
+        "creatorId": 188696278,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "Biology exam 2 Questions",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 92,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/672351236/biology-exam-2-questions-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 188696278,
+          "username": "awesomemmustafa",
+          "timestamp": 1600815557,
+          "lastModified": 1692730680,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 0,
+          "_imageUrl": "https://lh3.googleusercontent.com/a/AAcHTtdusaq9b5w_0FuzhM8NzlHAaSMS_clp3ncyC54GRw=s96-c?sz=150",
+          "timeZone": "America/New_York",
+          "firstName": "Mohammad",
+          "lastName": "Mustafa"
+        }
+      },
+      {
+        "id": 729214133,
+        "timestamp": 1664495667,
+        "lastModified": 1664501426,
+        "publishedTimestamp": 1664501326,
+        "creatorId": 89493892,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "Chapter 3 Ap Gov homework",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 38,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 1,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/729214133/chapter-3-ap-gov-homework-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0,
+        "_creator": {
+          "id": 89493892,
+          "username": "bakerma4",
+          "timestamp": 1535462196,
+          "lastModified": 1702611315,
+          "type": 0,
+          "isLocked": false,
+          "selfIdentifiedTeacherStatus": 2,
+          "_imageUrl": "https://assets.quizlet.com/a/j/dist/app/i/animals/113.e4b7e1c4ed27afa.jpg",
+          "timeZone": "America/New_York",
+          "firstName": "Marlo",
+          "lastName": "Baker"
+        }
+      }
+    ],
+    "recommendedTextbooks": null,
+    "recommendedBehavioralTextbooks": null,
+    "relatedQuestions": null,
+    "relevantSetMembershipsMap": [],
+    "selectedOnly": false,
+    "set": {
+      "id": 738369724,
+      "timestamp": 1666578752,
+      "lastModified": 1666578839,
+      "publishedTimestamp": 1666578753,
+      "creatorId": 188055338,
+      "wordLang": "en",
+      "defLang": "en",
+      "title": "ENGL 1301 WORDINESS/ CLUTTER NOTES AND QUIZ",
+      "passwordUse": false,
+      "passwordEdit": false,
+      "accessType": 2,
+      "accessCodePrefix": null,
+      "description": "",
+      "numTerms": 17,
+      "hasImages": false,
+      "parentId": 0,
+      "creationSource": 2,
+      "privacyLockStatus": 0,
+      "hasDiagrams": false,
+      "_webUrl": "https://quizlet.com/738369724/engl-1301-wordiness-clutter-notes-and-quiz-flash-cards/",
+      "_thumbnailUrl": null,
+      "price": null,
+      "mcqCount": 0,
+      "purchasableType": 0
+    },
+    "setLocale": null,
+    "setSlug": "engl-1301-wordiness-clutter-notes-and-quiz",
+    "setUnlockedForLearnAndTestPaywall": false,
+    "setPaths": {
+      "delete": "/738369724/delete",
+      "edit": "/738369724/edit",
+      "editBottom": "/738369724/edit#addRow",
+      "editWithPassword": "/738369724/edit-screen?inline=1",
+      "info": "/738369724/info?setId=738369724&setSlug=engl-1301-wordiness-clutter-notes-and-quiz-flash-cards",
+      "print": "/738369724/print",
+      "remove": "/qzadmin/sets/738369724/remove",
+      "scores": "/738369724/scores?setId=738369724&setSlug=engl-1301-wordiness-clutter-notes-and-quiz-flash-cards",
+      "show": "/738369724/engl-1301-wordiness-clutter-notes-and-quiz-flash-cards/?setId=738369724&setSlug=engl-1301-wordiness-clutter-notes-and-quiz-flash-cards"
+    },
+    "setPageMultipleEmbeddedAdsDesktopMaxAds": 6,
+    "setPageMultipleEmbeddedAdsDesktopMinTerms": 8,
+    "setPageMultipleEmbeddedAdsDesktopSpacing": 10,
+    "setPageMultipleEmbeddedAdsDesktopStartPosition": 1,
+    "setPageMultipleEmbeddedAdsMobileMaxAds": 5,
+    "setPageMultipleEmbeddedAdsMobileMinTerms": 7,
+    "setPageMultipleEmbeddedAdsMobileSpacing": 9,
+    "setPageMultipleEmbeddedAdsMobileStartPosition": 2,
+    "setsFromCreator": null,
+    "setsFromFolder": null,
+    "shareUrls": {
+      "emailUrl": "/webapi/3.4/set/738369724/email"
+    },
+    "shouldRemoveMiniFlashcards": false,
+    "shouldRemoveSignupWall": false,
+    "shouldRenderBreadcrumbsSchema": null,
+    "shouldShowAd": true,
+    "shouldShowAdminTools": false,
+    "shouldShowEdgyDataModal": false,
+    "shouldShowBreadcrumbs": null,
+    "shouldShowCardsPreview": false,
+    "shouldShowCardTooltip": false,
+    "shouldShowClassProgressUpsellModalOnLoad": false,
+    "shouldShowExplanationsValueModal": false,
+    "shouldShowGamesHub": false,
+    "shouldShowPracticeTestBanner": false,
+    "shouldShowProgressBuckets": false,
+    "shouldShowProgressReset": false,
+    "shouldShowQChatLink": true,
+    "shouldShowRatingModal": false,
+    "shouldShowReferrerModal": false,
+    "shouldShowRichText": true,
+    "shouldShowShareOptions": true,
+    "shouldShowSignupCurtain": true,
+    "shouldShowSignupWall": true,
+    "shouldShowStickiesA": false,
+    "shouldShowStudyPath": false,
+    "shouldShowStudyValuePropUpsellModal": false,
+    "shouldShowTextbookRecommendations": false,
+    "shouldShowThankYouModal": false,
+    "shouldStudyModeButtonsUseCsr": false,
+    "shouldUseInternationalUrl": false,
+    "showVerifiedUI": false,
+    "similarSets": null,
+    "socialProofMessage": false,
+    "studiableItemsDefinitionSideMaxLength": 1850,
+    "studiableItemsWordSideMaxLength": 930,
+    "studyGuideData": null,
+    "termIdToIsSelectedMap": {
+      "1747534481485831": false,
+      "1747534481485832": false,
+      "1747534481485833": false,
+      "1747534481485834": false,
+      "1747534481485835": false,
+      "1747534481485836": false,
+      "1747534481485837": false,
+      "1747534481485838": false,
+      "1747534481485839": false,
+      "1747534481485840": false,
+      "1747534481485841": false,
+      "1747534481485842": false,
+      "1747534481485843": false,
+      "1747534481485844": false,
+      "1747534481485845": false,
+      "1747534481485846": false,
+      "1747534481485847": false
+    },
+    "termIdToQuestionMap": [],
+    "termSort": "original",
+    "topCreatorLabel": null,
+    "user": null,
+    "userRating": null,
+    "userSchools": null,
+    "wantsAchievementNotification": false,
+    "wantsScheduledReviewReminders": true,
+    "yourStatsChunks": {},
+    "shouldShowCategoriesLink": false,
+    "shouldShowBlastGame": false,
+    "questionEventLogger": {},
+    "signupMetadata": {},
+    "isAddToClassOrFolderModalOpen": false,
+    "isAddToClassModalOpen": false,
+    "isAddToFolderModalOpen": false,
+    "isCreateClassModalOpen": false,
+    "isCreateFolderModalOpen": false,
+    "isEligibleForSetPersonalization": false,
+    "isEmbedModalOpen": false,
+    "isExportModalOpen": false,
+    "isFirstSetSaveModalOpen": false,
+    "isGenerateSetPersonalizationModalOpen": false,
+    "isMobileOnrampModalOpen": false,
+    "isNewSetShare": false,
+    "isProgressResetModalOpen": false,
+    "isShareModalOpen": false,
+    "isSharingOnFirefly": false,
+    "isSignupModalOpen": false,
+    "isStudyModeButtonCoachmarkDismissed": false,
+    "gtmOverrideStrForPage": "{\"locale\":\"en-us\",\"abTests\":\"ChallengeModalV2:experiment,ClassAutoJoin[default,growth]:experiment,LOTestModeSEOABTest:experiment,LibraryNavPopoverRemoval:control,MagicNotesHurricaneBannerFeatureFlag:variantB,MicroSignUpOptimizations[default,experiment]:experiment,NotesLandingShareText:experiment,NotesRemoveQChat:control,ShouldTestINPLoadingState[default,growth]:experiment,StudentCompetitionPhase2:end,SubjectNavAbiturLinks:experiment,UseDemographicPackages[default,subscriptions]:experiment,VerifiedGroupOrder[default,subscriptions]:experiment,ZuoraLocalCurrency[default,subscriptions]:control,AdapexPbV3[default,ads]:control,CopyABTestExplanationsLandingPageHeadingFreeajRzM:noFree,CopyABTestGlobalHeaderNotesButtons6eek:variation4,CopyABTestLoggedInHomepageWhatsNewNotesTitlekUE7A:variation1,CopyABTestLoggedInHomepageWhatsNewQChatTitlefPFPK:control,CopyABTestModesCardsSignupTitleekNma:control,CopyABTestNotesValueUploadPageBottomBarCreateheP8h:control,CopyABTestStudyModeNameQChatEXMKM:control,CopyABTestUpgradePagePlanPeriodSelectorFocusAnnualAFMDQ:control,DisableSendSoonerForAdSlotEventsV2[default,ads]:experiment,FetchFloorsBeforeAuctionV1[default,ads]:experiment,FlashcardStudyBreakAdV2[default,ads]:control,GoogleFedCMV2[default,growth,ads]:control,Infolinks[default,ads]:control,MLPriceFlooringHoldout[default,ads]:holdout,MatchEntryAdV3[default,ads]:control,MultiFormatAdsV3[default,ads]:control,PracticeTestV1[default,subscriptions,ads]:experiment,Prebid33AcrossIdModule[default,ads]:control,PrebidTopics[default,ads]:experiment,RemoveID5Identity[default,ads]:experiment,RemoveSignupWallPH[default,ads,subscriptions]:control,SetPageDwebSidebarButtonsV2[ads]:control,SnowplowAdsEvents[default,ads]:control,StopRenderingSidebarsInMweb[default,ads]:experiment,SyncFlashcardAdsTimmer[default,ads]:control,TypeaheadVectorSuggestionV5[default,search,ads]:variantAt0\",\"loginSource\":\"\",\"isLoggedIn\":false,\"selfIdentifiedUserType\":\"unknown\",\"userUpgradeType\":\"free-anonymous\",\"isVerifiedCreator\":false,\"renderEnvironment\":\"renderer\",\"uid\":\"-98741538667784820\",\"userId\":null,\"canSendDataBasedOnAgeAndCountry\":true,\"countryCode\":null,\"isUnderAge\":false,\"isUnderEighteen\":false,\"isUnderSixteen\":false,\"isUnderThirteen\":false,\"studyableTitle\":\"ENGL 1301 WORDINESS\\/ CLUTTER NOTES AND QUIZ\",\"studyableId\":738369724,\"studyableType\":\"set\",\"hasDiagrams\":false}",
+    "htmlHeadData": {
+      "canonicalUrl": "https://quizlet.com/738369724/engl-1301-wordiness-clutter-notes-and-quiz-flash-cards/",
+      "metaDescription": "Study with Quizlet and memorize flashcards containing terms like NOTES:, NOTES:, NOTES: and more.",
+      "robotsMetaTag": null,
+      "setTitle": "ENGL 1301 WORDINESS/ CLUTTER NOTES AND QUIZ Flashcards",
+      "contentLanguage": null,
+      "htmlLang": null,
+      "socialImageUrl": "https://assets.quizlet.com/a/j/dist/app/i/share/share-set.1f4740293bbc750.png"
+    },
+    "isCreatorOnly": false,
+    "isEditableWithPassword": false,
+    "shouldUseSearchEngineSSRTranslation": true,
+    "sourceStudyGuide": null,
+    "adsConfig": {
+      "adsDisabledReasons": [],
+      "areAdsDisabled": false,
+      "browserData": {
+        "browserName": "Chrome",
+        "browserVersion": "108.0.0.0",
+        "osName": "Macintosh",
+        "osVersion": "13.1",
+        "countryCode": "us",
+        "regionCode": "tx"
+      },
+      "ccpaApplies": false,
+      "flooringHoldoutVariant": "holdout",
+      "gdprApplies": false,
+      "gppApplies": true,
+      "email": null,
+      "hashedEmail": null,
+      "isBCSEnabled": false,
+      "keyValues": {
+        "adexp_if85": "0",
+        "adexp_sae820": "0",
+        "adexp_mlpfhb9f": "1",
+        "adexp_ptb44": "1",
+        "childDirected": "no",
+        "n": "en-us",
+        "l": "0",
+        "pa": "SetsRenderer_show",
+        "p": "1",
+        "v": "1",
+        "iefft": "1",
+        "rpv": "93",
+        "set_id": "738369724",
+        "ct_level1": "Languages",
+        "ct_level2": "English",
+        "ct_level3": "Questions",
+        "au": [
+          "m_r",
+          "p_it"
+        ],
+        "gl": [
+          "cb",
+          "co"
+        ],
+        "stc": "11-50"
+      },
+      "matchVideoEntryTestVariant": null,
+      "outOfPageSlotNames": [
+        "outOfPage1",
+        "outOfPage2"
+      ],
+      "pageHierarchyStack": [
+        2,
+        4
+      ],
+      "prebidTag": "topics",
+      "registeredAds": {
+        "SetSidebarV4": {
+          "allowPrefetch": true,
+          "autoInitialPrefetch": true,
+          "defineSlotImmediately": false,
+          "isBCS": false,
+          "isFlexible": true,
+          "isOutstream": false,
+          "isPHPRendered": false,
+          "lazyLoaded": false,
+          "showAdHeading": true,
+          "useHeaderBidding": true,
+          "type": "SIDEBAR"
+        },
+        "SetRectangleHeader": {
+          "allowPrefetch": true,
+          "autoInitialPrefetch": true,
+          "defineSlotImmediately": false,
+          "isBCS": false,
+          "isFlexible": true,
+          "isOutstream": false,
+          "isPHPRendered": false,
+          "lazyLoaded": false,
+          "showAdHeading": false,
+          "useHeaderBidding": true,
+          "type": "RECTANGLE"
+        },
+        "SetPageFooter": {
+          "allowPrefetch": true,
+          "autoInitialPrefetch": true,
+          "defineSlotImmediately": false,
+          "isBCS": false,
+          "isFlexible": true,
+          "isOutstream": false,
+          "isPHPRendered": false,
+          "lazyLoaded": false,
+          "showAdHeading": true,
+          "useHeaderBidding": true,
+          "type": "BANNER"
+        },
+        "SetMWebStripV3": {
+          "allowPrefetch": true,
+          "autoInitialPrefetch": true,
+          "defineSlotImmediately": false,
+          "isBCS": false,
+          "isFlexible": false,
+          "isOutstream": false,
+          "isPHPRendered": false,
+          "lazyLoaded": false,
+          "showAdHeading": false,
+          "useHeaderBidding": true,
+          "type": "MOBILE_HORIZONTAL_STRIP"
+        },
+        "SetPageStickyAdMWeb": {
+          "allowPrefetch": false,
+          "autoInitialPrefetch": false,
+          "defineSlotImmediately": false,
+          "isBCS": false,
+          "isFlexible": true,
+          "isOutstream": false,
+          "isPHPRendered": false,
+          "lazyLoaded": false,
+          "showAdHeading": false,
+          "useHeaderBidding": true,
+          "type": "MOBILE_HORIZONTAL_STRIP"
+        },
+        "SetPageEmbedDesktopMulti01": {
+          "allowPrefetch": true,
+          "autoInitialPrefetch": true,
+          "defineSlotImmediately": false,
+          "isBCS": false,
+          "isFlexible": true,
+          "isOutstream": false,
+          "isPHPRendered": false,
+          "lazyLoaded": false,
+          "showAdHeading": false,
+          "useHeaderBidding": true,
+          "type": "NATIVE"
+        },
+        "SetPageEmbedDesktopMulti02": {
+          "allowPrefetch": true,
+          "autoInitialPrefetch": true,
+          "defineSlotImmediately": false,
+          "isBCS": false,
+          "isFlexible": true,
+          "isOutstream": false,
+          "isPHPRendered": false,
+          "lazyLoaded": false,
+          "showAdHeading": true,
+          "useHeaderBidding": true,
+          "type": "BANNER"
+        },
+        "SetPageEmbedMWebMulti01": {
+          "allowPrefetch": true,
+          "autoInitialPrefetch": true,
+          "defineSlotImmediately": false,
+          "isBCS": false,
+          "isFlexible": true,
+          "isOutstream": false,
+          "isPHPRendered": false,
+          "lazyLoaded": false,
+          "showAdHeading": false,
+          "useHeaderBidding": true,
+          "type": "NATIVE"
+        },
+        "SetPageEmbedMWebMulti02": {
+          "allowPrefetch": true,
+          "autoInitialPrefetch": true,
+          "defineSlotImmediately": false,
+          "isBCS": false,
+          "isFlexible": true,
+          "isOutstream": false,
+          "isPHPRendered": false,
+          "lazyLoaded": false,
+          "showAdHeading": false,
+          "useHeaderBidding": true,
+          "type": "MOBILE_RECTANGLE"
+        }
+      },
+      "qChatVideoAdTestVariant": null,
+      "shouldLogAdRequests": false,
+      "shouldLogOWReceivedBids": true,
+      "shouldLogWinningBidsToBQ": true,
+      "shouldLogWinningVideoBidsToBQ": true,
+      "shouldUseNativePrebid": true,
+      "shouldUseAdapex": false,
+      "shouldDisableA9": false,
+      "shouldUseSnowplow": false,
+      "shouldUseLiveramp": true,
+      "shouldUse33AcrossId": false,
+      "shouldUseMultiformat": false,
+      "shouldUseIIQ": false,
+      "sidebarAdsRefreshInterval": 30,
+      "tagForChildDirectedTreatment": false,
+      "serverTime": 1715823927
+    },
+    "uid": "-98741538667784820",
+    "cameFromUpload": false
+  },
+  "cards": {
+    "ads": {
+      "shouldShowCardIntervalAd": false,
+      "cardsView": 1,
+      "miniFcProgramaticAndFrequencyVariant": null,
+      "isRenderingRva": false,
+      "isRewarded": false,
+      "isMwebAdEnabled": false,
+      "mwebAdsState": {
+        "areCardsMovingForward": true,
+        "isRenderingMwebAd": false,
+        "isShowingCardsMwebAd": false,
+        "shouldLoadCardsMwebAd": false,
+        "shouldPreloadMwebAd": false,
+        "isAdNoFill": false
+      }
+    },
+    "cardExplanations": {
+      "explanationsCache": {},
+      "modalState": {
+        "answerText": "",
+        "explanationText": "",
+        "hasError": false,
+        "isLongTextExpanded": false,
+        "isOpen": false,
+        "promptText": "",
+        "serverTimestampMs": 0,
+        "studiableContainerId": 0,
+        "studiableItemId": 0
+      }
+    },
+    "engine": {
+      "adsState": null,
+      "isFlipped": false,
+      "modeState": {
+        "question": {
+          "front": {
+            "attributes": [
+              {
+                "type": "TextAttribute",
+                "plainText": "NOTES:",
+                "languageCode": "en",
+                "richText": null,
+                "mediaType": 1
+              },
+              {
+                "type": "AudioAttribute",
+                "url": "/tts/en.mp3?v=14&b=Tk9URVM6&s=d79H4ohZ",
+                "slowUrl": "/tts/en.mp3?v=14&b=Tk9URVM6&s=d79H4ohZ&speed=70",
+                "mediaType": 4
+              }
+            ]
+          },
+          "back": {
+            "attributes": [
+              {
+                "type": "TextAttribute",
+                "plainText": "• Use concise words: wordiness or overloaded sentences means using more words than necessary to express an idea. Reducing wordiness or cutting clutter means to get rid of words that only take space and add no meaning.",
+                "languageCode": "en",
+                "richText": null,
+                "mediaType": 1
+              },
+              {
+                "type": "AudioAttribute",
+                "url": "/tts/en.mp3?v=14&b=4oCiIFVzZSBjb25jaXNlIHdvcmRzOiB3b3JkaW5lc3Mgb3Igb3ZlcmxvYWRlZCBzZW50ZW5jZXMgbWVhbnMgdXNpbmcgbW9yZSB3b3JkcyB0aGFuIG5lY2Vzc2FyeSB0byBleHByZXNzIGFuIGlkZWEuIFJlZHVjaW5nIHdvcmRpbmVzcyBvciBjdXR0aW5nIGNsdXR0ZXIgbWVhbnMgdG8gZ2V0IHJpZCBvZiB3b3JkcyB0aGF0IG9ubHkgdGFrZSBzcGFjZSBhbmQgYWRkIG5vIG1lYW5pbmcu&s=qMpdHi53",
+                "slowUrl": "/tts/en.mp3?v=14&b=4oCiIFVzZSBjb25jaXNlIHdvcmRzOiB3b3JkaW5lc3Mgb3Igb3ZlcmxvYWRlZCBzZW50ZW5jZXMgbWVhbnMgdXNpbmcgbW9yZSB3b3JkcyB0aGFuIG5lY2Vzc2FyeSB0byBleHByZXNzIGFuIGlkZWEuIFJlZHVjaW5nIHdvcmRpbmVzcyBvciBjdXR0aW5nIGNsdXR0ZXIgbWVhbnMgdG8gZ2V0IHJpZCBvZiB3b3JkcyB0aGF0IG9ubHkgdGFrZSBzcGFjZSBhbmQgYWRkIG5vIG1lYW5pbmcu&s=qMpdHi53&speed=70",
+                "mediaType": 4
+              }
+            ]
+          },
+          "hint": {
+            "attributes": [
+              {
+                "type": "TextAttribute",
+                "plainText": "• Use concise words: wordiness or overloaded sentences means using more words ________",
+                "languageCode": "en",
+                "richText": null,
+                "mediaType": 1
+              }
+            ]
+          },
+          "metadata": {
+            "studiableItemId": 1747534481485831,
+            "promptSide": "word",
+            "answerSide": "definition",
+            "questionSource": null,
+            "questionScoringInferenceMetadata": null,
+            "optionGenerationSource": null,
+            "meteringData": null
+          },
+          "questionType": 16
+        },
+        "hasActionAvailableToUndo": false,
+        "progress": {
+          "totalProgress": {
+            "masteryBuckets": {
+              "type": "FlashcardsMasteryBuckets",
+              "remaining": [
+                1747534481485831,
+                1747534481485832,
+                1747534481485833,
+                1747534481485834,
+                1747534481485835,
+                1747534481485836,
+                1747534481485837,
+                1747534481485838,
+                1747534481485839,
+                1747534481485840,
+                1747534481485841,
+                1747534481485842,
+                1747534481485843,
+                1747534481485844,
+                1747534481485845,
+                1747534481485846,
+                1747534481485847
+              ],
+              "completed": []
+            },
+            "studyProgress": 0
+          },
+          "currentRound": 1,
+          "total": {
+            "completed": 0,
+            "stillLearning": 0,
+            "total": 17
+          },
+          "cycle": {
+            "completed": 0,
+            "stillLearning": 0,
+            "total": 17
+          },
+          "round": {
+            "completed": 0,
+            "stillLearning": 0,
+            "total": 17
+          },
+          "roundProgress": {
+            "isRoundComplete": false,
+            "isCycleComplete": false,
+            "numCardsCompleted": 0,
+            "totalNumCardsCompleted": 0,
+            "numCardsMovedToNextCycle": 0,
+            "totalNumCardsMovedToNextCycle": 0,
+            "numCards": 17,
+            "roundProgressPercent": 0
+          }
+        },
+        "shuffleRandomSeed": 1
+      },
+      "isEngineInitialized": false
+    },
+    "onboarding": {
+      "numCardsSeen": 0
+    },
+    "ui": {
+      "answerHistory": {
+        "starred": [],
+        "unstarred": []
+      },
+      "cardsOrigin": "set_page",
+      "errors": {
+        "editStudiableItem": null
+      },
+      "funnelUuid": "",
+      "hasInteractedWithMode": false,
+      "isAutoplayOn": false,
+      "isEditing": false,
+      "isEligibleToSeeTeacherOnboardingPreviewCard": false,
+      "isEligibleForSetPersonalization": false,
+      "isFlipped": false,
+      "isRequestingEdit": false,
+      "isMcqPreviewEnabled": false,
+      "mcqPreviewLastMode": null,
+      "mcqPreviewDismissalExpiration": 0,
+      "mcqPreviewDistractors": [],
+      "isInMiniFCV2": false
+    }
+  },
+  "cardsAudioMode": {
+    "isAudioPlaying": false
+  },
+  "audioPlayback": {
+    "playingAudioId": null,
+    "lastPlayedQueue": [],
+    "playQueue": [],
+    "preloadQueue": []
+  },
+  "studyModesCommon": {
+    "engine": {
+      "instance": null,
+      "gradedAnswer": null,
+      "studyStep": null,
+      "totalProgress": null,
+      "roundProgress": null,
+      "answerHistory": null,
+      "taskRoundProgress": null,
+      "taskSequenceProgress": null
+    },
+    "gradings": {
+      "answerGradedByLongtextGradingService": false,
+      "isEligibleForSmartGrading": false,
+      "isGrading": false,
+      "overrideCorrectnessCounter": 0,
+      "shouldShowSmartGradingUpsell": false
+    },
+    "logging": {
+      "embedType": "internal",
+      "funnelUUID": "",
+      "config": null,
+      "logPageActionFn": null,
+      "logNavigationEventFn": null,
+      "modeType": 2,
+      "selectedOnly": false,
+      "studyableId": 738369724,
+      "studyableType": 1,
+      "uid": "",
+      "user": null
+    },
+    "studiableData": {
+      "studiableMetadataByType": {
+        "5": [
+          {
+            "studiableContainerId": 738369724,
+            "studiableContainerType": 1,
+            "studiableItemId": 1747534481485831,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "written": {
+              "answerSidePriorities": [
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            }
+          },
+          {
+            "studiableContainerId": 738369724,
+            "studiableContainerType": 1,
+            "studiableItemId": 1747534481485832,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "written": {
+              "answerSidePriorities": [
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            }
+          },
+          {
+            "studiableContainerId": 738369724,
+            "studiableContainerType": 1,
+            "studiableItemId": 1747534481485833,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "written": {
+              "answerSidePriorities": [
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            }
+          },
+          {
+            "studiableContainerId": 738369724,
+            "studiableContainerType": 1,
+            "studiableItemId": 1747534481485834,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "written": {
+              "answerSidePriorities": [
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            }
+          },
+          {
+            "studiableContainerId": 738369724,
+            "studiableContainerType": 1,
+            "studiableItemId": 1747534481485835,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "written": {
+              "answerSidePriorities": [
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            }
+          },
+          {
+            "studiableContainerId": 738369724,
+            "studiableContainerType": 1,
+            "studiableItemId": 1747534481485836,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "written": {
+              "answerSidePriorities": [
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            }
+          },
+          {
+            "studiableContainerId": 738369724,
+            "studiableContainerType": 1,
+            "studiableItemId": 1747534481485837,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "written": {
+              "answerSidePriorities": [
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            }
+          },
+          {
+            "studiableContainerId": 738369724,
+            "studiableContainerType": 1,
+            "studiableItemId": 1747534481485838,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "written": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            }
+          },
+          {
+            "studiableContainerId": 738369724,
+            "studiableContainerType": 1,
+            "studiableItemId": 1747534481485839,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "written": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            }
+          },
+          {
+            "studiableContainerId": 738369724,
+            "studiableContainerType": 1,
+            "studiableItemId": 1747534481485840,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "written": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            }
+          },
+          {
+            "studiableContainerId": 738369724,
+            "studiableContainerType": 1,
+            "studiableItemId": 1747534481485841,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "written": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            }
+          },
+          {
+            "studiableContainerId": 738369724,
+            "studiableContainerType": 1,
+            "studiableItemId": 1747534481485842,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "written": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            }
+          },
+          {
+            "studiableContainerId": 738369724,
+            "studiableContainerType": 1,
+            "studiableItemId": 1747534481485843,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "written": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            }
+          },
+          {
+            "studiableContainerId": 738369724,
+            "studiableContainerType": 1,
+            "studiableItemId": 1747534481485844,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "written": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            }
+          },
+          {
+            "studiableContainerId": 738369724,
+            "studiableContainerType": 1,
+            "studiableItemId": 1747534481485845,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "written": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            }
+          },
+          {
+            "studiableContainerId": 738369724,
+            "studiableContainerType": 1,
+            "studiableItemId": 1747534481485846,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "written": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": false
+            }
+          },
+          {
+            "studiableContainerId": 738369724,
+            "studiableContainerType": 1,
+            "studiableItemId": 1747534481485847,
+            "studiableItemType": 2,
+            "modelVersion": "4.0.0",
+            "type": 5,
+            "multipleChoice": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "written": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            },
+            "revealSelfAssessment": {
+              "answerSidePriorities": [
+                "definition",
+                "word"
+              ],
+              "allowKmpLanguageLearningLogicOverwrite": true
+            }
+          }
+        ]
+      },
+      "studiableItems": [
+        {
+          "id": 1747534481485831,
+          "studiableContainerType": 1,
+          "studiableContainerId": 738369724,
+          "type": 2,
+          "rank": 0,
+          "creatorId": 188055338,
+          "timestamp": 1666578752,
+          "lastModified": 1666578752,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 0,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "NOTES:",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=Tk9URVM6&s=d79H4ohZ",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=Tk9URVM6&s=d79H4ohZ&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 1,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "• Use concise words: wordiness or overloaded sentences means using more words than necessary to express an idea. Reducing wordiness or cutting clutter means to get rid of words that only take space and add no meaning.",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=4oCiIFVzZSBjb25jaXNlIHdvcmRzOiB3b3JkaW5lc3Mgb3Igb3ZlcmxvYWRlZCBzZW50ZW5jZXMgbWVhbnMgdXNpbmcgbW9yZSB3b3JkcyB0aGFuIG5lY2Vzc2FyeSB0byBleHByZXNzIGFuIGlkZWEuIFJlZHVjaW5nIHdvcmRpbmVzcyBvciBjdXR0aW5nIGNsdXR0ZXIgbWVhbnMgdG8gZ2V0IHJpZCBvZiB3b3JkcyB0aGF0IG9ubHkgdGFrZSBzcGFjZSBhbmQgYWRkIG5vIG1lYW5pbmcu&s=qMpdHi53",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=4oCiIFVzZSBjb25jaXNlIHdvcmRzOiB3b3JkaW5lc3Mgb3Igb3ZlcmxvYWRlZCBzZW50ZW5jZXMgbWVhbnMgdXNpbmcgbW9yZSB3b3JkcyB0aGFuIG5lY2Vzc2FyeSB0byBleHByZXNzIGFuIGlkZWEuIFJlZHVjaW5nIHdvcmRpbmVzcyBvciBjdXR0aW5nIGNsdXR0ZXIgbWVhbnMgdG8gZ2V0IHJpZCBvZiB3b3JkcyB0aGF0IG9ubHkgdGFrZSBzcGFjZSBhbmQgYWRkIG5vIG1lYW5pbmcu&s=qMpdHi53&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 1747534481485832,
+          "studiableContainerType": 1,
+          "studiableContainerId": 738369724,
+          "type": 2,
+          "rank": 1,
+          "creatorId": 188055338,
+          "timestamp": 1666578752,
+          "lastModified": 1666578752,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 0,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "NOTES:",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=Tk9URVM6&s=d79H4ohZ",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=Tk9URVM6&s=d79H4ohZ&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 1,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "• Notice the wordy and short forms below:\n\nWordy Form: \n- at the present time \n- in the event of \n- in the near future \n- due to the fact that \n- in this day and age \n- during the time that \n- a large number of \n- big in size \n- red in color\n——————————-\nShort Form: \n- now\n- if\n- soon\n- because \n- now\n- while \n- many\n- big\n- red",
+                  "languageCode": "en",
+                  "ttsUrl": null,
+                  "ttsSlowUrl": null,
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 1747534481485833,
+          "studiableContainerType": 1,
+          "studiableContainerId": 738369724,
+          "type": 2,
+          "rank": 2,
+          "creatorId": 188055338,
+          "timestamp": 1666578752,
+          "lastModified": 1666578752,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 0,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "NOTES:",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=Tk9URVM6&s=d79H4ohZ",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=Tk9URVM6&s=d79H4ohZ&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 1,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "Revise the following sentences, omitting needless words: \n\n1. The bird was purple, red, orange and yellow in color and its body was extremely large.\nANSWER: The bird was purple, red, orange, and yellow. (The sentence is clearer and easier to read)\n\n\n2 A large number of people are now seeking out various electronic devices as presents to give to others on their birthdays.\nANSWER: Many people now buy devices to give as gifts.\n\n\n3. Because of the bad weather, the school district felt it would be safer to cancel classes and let everyone stay home than to risk people having accidents on the way to school.\nANSWER : The school district cancelled classes due to bad weather.",
+                  "languageCode": "en",
+                  "ttsUrl": null,
+                  "ttsSlowUrl": null,
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 1747534481485834,
+          "studiableContainerType": 1,
+          "studiableContainerId": 738369724,
+          "type": 2,
+          "rank": 3,
+          "creatorId": 188055338,
+          "timestamp": 1666578752,
+          "lastModified": 1666578752,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 0,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "NOTES:",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=Tk9URVM6&s=d79H4ohZ",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=Tk9URVM6&s=d79H4ohZ&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 1,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "The following words are clutter:\n\nCut words such as: well, literally, of course, like, super, due to the fact that, in my opinion, I think, I believe.\n\nCut qualifiers such as: very, really, quite, extremely, especially, pretty, exceptionally, rather or kind of, somewhat",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=VGhlIGZvbGxvd2luZyB3b3JkcyBhcmUgY2x1dHRlcjoKCkN1dCB3b3JkcyBzdWNoIGFzOiB3ZWxsLCBsaXRlcmFsbHksIG9mIGNvdXJzZSwgbGlrZSwgc3VwZXIsIGR1ZSB0byB0aGUgZmFjdCB0aGF0LCBpbiBteSBvcGluaW9uLCBJIHRoaW5rLCBJIGJlbGlldmUuCgpDdXQgcXVhbGlmaWVycyBzdWNoIGFzOiB2ZXJ5LCByZWFsbHksIHF1aXRlLCBleHRyZW1lbHksIGVzcGVjaWFsbHksIHByZXR0eSwgZXhjZXB0aW9uYWxseSwgcmF0aGVyIG9yIGtpbmQgb2YsIHNvbWV3aGF0&s=FYlkVjw-",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=VGhlIGZvbGxvd2luZyB3b3JkcyBhcmUgY2x1dHRlcjoKCkN1dCB3b3JkcyBzdWNoIGFzOiB3ZWxsLCBsaXRlcmFsbHksIG9mIGNvdXJzZSwgbGlrZSwgc3VwZXIsIGR1ZSB0byB0aGUgZmFjdCB0aGF0LCBpbiBteSBvcGluaW9uLCBJIHRoaW5rLCBJIGJlbGlldmUuCgpDdXQgcXVhbGlmaWVycyBzdWNoIGFzOiB2ZXJ5LCByZWFsbHksIHF1aXRlLCBleHRyZW1lbHksIGVzcGVjaWFsbHksIHByZXR0eSwgZXhjZXB0aW9uYWxseSwgcmF0aGVyIG9yIGtpbmQgb2YsIHNvbWV3aGF0&s=FYlkVjw-&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 1747534481485835,
+          "studiableContainerType": 1,
+          "studiableContainerId": 738369724,
+          "type": 2,
+          "rank": 4,
+          "creatorId": 188055338,
+          "timestamp": 1666578752,
+          "lastModified": 1666578752,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 0,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "NOTES:",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=Tk9URVM6&s=d79H4ohZ",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=Tk9URVM6&s=d79H4ohZ&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 1,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "The following phrases are clutter too:\n\nas I was saying, I remember as it were yesterday, In this world we live in, now a days",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=VGhlIGZvbGxvd2luZyBwaHJhc2VzIGFyZSBjbHV0dGVyIHRvbzoKCmFzIEkgd2FzIHNheWluZywgSSByZW1lbWJlciBhcyBpdCB3ZXJlIHllc3RlcmRheSwgSW4gdGhpcyB3b3JsZCB3ZSBsaXZlIGluLCBub3cgYSBkYXlz&s=NPF1A9C3",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=VGhlIGZvbGxvd2luZyBwaHJhc2VzIGFyZSBjbHV0dGVyIHRvbzoKCmFzIEkgd2FzIHNheWluZywgSSByZW1lbWJlciBhcyBpdCB3ZXJlIHllc3RlcmRheSwgSW4gdGhpcyB3b3JsZCB3ZSBsaXZlIGluLCBub3cgYSBkYXlz&s=NPF1A9C3&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 1747534481485836,
+          "studiableContainerType": 1,
+          "studiableContainerId": 738369724,
+          "type": 2,
+          "rank": 5,
+          "creatorId": 188055338,
+          "timestamp": 1666578752,
+          "lastModified": 1666578752,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 0,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "NOTES:",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=Tk9URVM6&s=d79H4ohZ",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=Tk9URVM6&s=d79H4ohZ&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 1,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "Other examples of clutter:\n\n1. He had a smile on his face. Instead write: He smiled. (It's understood were the smile is)\n\n2. I ended up driving to Houston. Instead write, I drove to Houston.\n\n3. I screamed my lungs out. Instead write, I screamed.",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=T3RoZXIgZXhhbXBsZXMgb2YgY2x1dHRlcjoKCjEuIEhlIGhhZCBhIHNtaWxlIG9uIGhpcyBmYWNlLiBJbnN0ZWFkIHdyaXRlOiBIZSBzbWlsZWQuIChJdCdzIHVuZGVyc3Rvb2Qgd2VyZSB0aGUgc21pbGUgaXMpCgoyLiBJIGVuZGVkIHVwIGRyaXZpbmcgdG8gSG91c3Rvbi4gSW5zdGVhZCB3cml0ZSwgSSBkcm92ZSB0byBIb3VzdG9uLgoKMy4gSSBzY3JlYW1lZCBteSBsdW5ncyBvdXQuIEluc3RlYWQgd3JpdGUsIEkgc2NyZWFtZWQu&s=.zBh730p",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=T3RoZXIgZXhhbXBsZXMgb2YgY2x1dHRlcjoKCjEuIEhlIGhhZCBhIHNtaWxlIG9uIGhpcyBmYWNlLiBJbnN0ZWFkIHdyaXRlOiBIZSBzbWlsZWQuIChJdCdzIHVuZGVyc3Rvb2Qgd2VyZSB0aGUgc21pbGUgaXMpCgoyLiBJIGVuZGVkIHVwIGRyaXZpbmcgdG8gSG91c3Rvbi4gSW5zdGVhZCB3cml0ZSwgSSBkcm92ZSB0byBIb3VzdG9uLgoKMy4gSSBzY3JlYW1lZCBteSBsdW5ncyBvdXQuIEluc3RlYWQgd3JpdGUsIEkgc2NyZWFtZWQu&s=.zBh730p&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 1747534481485837,
+          "studiableContainerType": 1,
+          "studiableContainerId": 738369724,
+          "type": 2,
+          "rank": 6,
+          "creatorId": 188055338,
+          "timestamp": 1666578752,
+          "lastModified": 1666578752,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 0,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "NOTES:",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=Tk9URVM6&s=d79H4ohZ",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=Tk9URVM6&s=d79H4ohZ&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 1,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "Read the cluttered sentences. Then, read the corrections. Cut clutter with brackets [ ].\n\n1. [All in all] high school is a place to meet [all kinds of] people.\nCorrection: High school is a place to meet people.\n\n2. The noise got louder [and louder.]\nCorrection: The noise got louder.\n\n3. The baby cried [and cried.]\nCorrection: The baby cried.\n\n4. [Well] this bell was not here [back then.]\nCorrection: This bell was not here.\n\n5. I remember the incident [as if it were yesterday.]\nCorrection: I remember the incident\n\n6. [Anyway, as I was saying,] he set [us up] with the instructor.\nCorrection: He set an appointment with the instructor.\n\n7. [Finally, last but not least] the customers returned the merchandise.\nCorrection: The customers returned the merchandise.",
+                  "languageCode": "en",
+                  "ttsUrl": null,
+                  "ttsSlowUrl": null,
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 1747534481485838,
+          "studiableContainerType": 1,
+          "studiableContainerId": 738369724,
+          "type": 2,
+          "rank": 7,
+          "creatorId": 188055338,
+          "timestamp": 1666578752,
+          "lastModified": 1666578752,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 0,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "QUIZ: In the following sentence, the underlined phrase or clause may contain empty words or an unnecessary expletive. Select the answer option that is the best replacement; or, if the underlined text is the best choice, select No change.\n\n Stewart is REALLY SMART and has a quick wit.",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=UVVJWjogSW4gdGhlIGZvbGxvd2luZyBzZW50ZW5jZSwgdGhlIHVuZGVybGluZWQgcGhyYXNlIG9yIGNsYXVzZSBtYXkgY29udGFpbiBlbXB0eSB3b3JkcyBvciBhbiB1bm5lY2Vzc2FyeSBleHBsZXRpdmUuIFNlbGVjdCB0aGUgYW5zd2VyIG9wdGlvbiB0aGF0IGlzIHRoZSBiZXN0IHJlcGxhY2VtZW50OyBvciwgaWYgdGhlIHVuZGVybGluZWQgdGV4dCBpcyB0aGUgYmVzdCBjaG9pY2UsIHNlbGVjdCBObyBjaGFuZ2UuCgogU3Rld2FydCBpcyBSRUFMTFkgU01BUlQgYW5kIGhhcyBhIHF1aWNrIHdpdC4&s=47X68ASs",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=UVVJWjogSW4gdGhlIGZvbGxvd2luZyBzZW50ZW5jZSwgdGhlIHVuZGVybGluZWQgcGhyYXNlIG9yIGNsYXVzZSBtYXkgY29udGFpbiBlbXB0eSB3b3JkcyBvciBhbiB1bm5lY2Vzc2FyeSBleHBsZXRpdmUuIFNlbGVjdCB0aGUgYW5zd2VyIG9wdGlvbiB0aGF0IGlzIHRoZSBiZXN0IHJlcGxhY2VtZW50OyBvciwgaWYgdGhlIHVuZGVybGluZWQgdGV4dCBpcyB0aGUgYmVzdCBjaG9pY2UsIHNlbGVjdCBObyBjaGFuZ2UuCgogU3Rld2FydCBpcyBSRUFMTFkgU01BUlQgYW5kIGhhcyBhIHF1aWNrIHdpdC4&s=47X68ASs&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 1,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "Answer: BRILLIANT",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=QW5zd2VyOiBCUklMTElBTlQ&s=5FOAyiEw",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=QW5zd2VyOiBCUklMTElBTlQ&s=5FOAyiEw&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 1747534481485839,
+          "studiableContainerType": 1,
+          "studiableContainerId": 738369724,
+          "type": 2,
+          "rank": 8,
+          "creatorId": 188055338,
+          "timestamp": 1666578752,
+          "lastModified": 1666578752,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 0,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "QUIZ: In the following sentence, the underlined phrase or clause may contain empty words or an unnecessary expletive. Select the answer option that is the best replacement; or, if the underlined text is the best choice, select No change.\n\n Jon Stewart has made AN EXTREMELY UNIQUE contribution to television news commentary.",
+                  "languageCode": "en",
+                  "ttsUrl": null,
+                  "ttsSlowUrl": null,
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 1,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "Answer: A UNIQUE",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=QW5zd2VyOiBBIFVOSVFVRQ&s=Isgz18wk",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=QW5zd2VyOiBBIFVOSVFVRQ&s=Isgz18wk&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 1747534481485840,
+          "studiableContainerType": 1,
+          "studiableContainerId": 738369724,
+          "type": 2,
+          "rank": 9,
+          "creatorId": 188055338,
+          "timestamp": 1666578752,
+          "lastModified": 1666578752,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 0,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "QUIZ: In the following sentence, the underlined phrase or clause may contain empty words or an unnecessary expletive. Select the answer option that is the best replacement; or, if the underlined text is the best choice, select No change.\n\n MANY TALENTED COMEDIANS are on The Daily Show.",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=UVVJWjogSW4gdGhlIGZvbGxvd2luZyBzZW50ZW5jZSwgdGhlIHVuZGVybGluZWQgcGhyYXNlIG9yIGNsYXVzZSBtYXkgY29udGFpbiBlbXB0eSB3b3JkcyBvciBhbiB1bm5lY2Vzc2FyeSBleHBsZXRpdmUuIFNlbGVjdCB0aGUgYW5zd2VyIG9wdGlvbiB0aGF0IGlzIHRoZSBiZXN0IHJlcGxhY2VtZW50OyBvciwgaWYgdGhlIHVuZGVybGluZWQgdGV4dCBpcyB0aGUgYmVzdCBjaG9pY2UsIHNlbGVjdCBObyBjaGFuZ2UuCgogTUFOWSBUQUxFTlRFRCBDT01FRElBTlMgYXJlIG9uIFRoZSBEYWlseSBTaG93Lg&s=KScbg3Xf",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=UVVJWjogSW4gdGhlIGZvbGxvd2luZyBzZW50ZW5jZSwgdGhlIHVuZGVybGluZWQgcGhyYXNlIG9yIGNsYXVzZSBtYXkgY29udGFpbiBlbXB0eSB3b3JkcyBvciBhbiB1bm5lY2Vzc2FyeSBleHBsZXRpdmUuIFNlbGVjdCB0aGUgYW5zd2VyIG9wdGlvbiB0aGF0IGlzIHRoZSBiZXN0IHJlcGxhY2VtZW50OyBvciwgaWYgdGhlIHVuZGVybGluZWQgdGV4dCBpcyB0aGUgYmVzdCBjaG9pY2UsIHNlbGVjdCBObyBjaGFuZ2UuCgogTUFOWSBUQUxFTlRFRCBDT01FRElBTlMgYXJlIG9uIFRoZSBEYWlseSBTaG93Lg&s=KScbg3Xf&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 1,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "Answer: NO CHANGE",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=QW5zd2VyOiBOTyBDSEFOR0U&s=bIcsx.U8",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=QW5zd2VyOiBOTyBDSEFOR0U&s=bIcsx.U8&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 1747534481485841,
+          "studiableContainerType": 1,
+          "studiableContainerId": 738369724,
+          "type": 2,
+          "rank": 10,
+          "creatorId": 188055338,
+          "timestamp": 1666578752,
+          "lastModified": 1666578752,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 0,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "QUIZ: In the following sentence, the underlined phrase or clause may contain empty words or an unnecessary expletive. Select the answer option that is the best replacement; or, if the underlined text is the best choice. select No change.\n\n During the guest portion of a comedy show, the host sometimes TENDS TO CHALLENGE his or her guests by asking them pointed questions",
+                  "languageCode": "en",
+                  "ttsUrl": null,
+                  "ttsSlowUrl": null,
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 1,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "Answer: CHALLENGES",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=QW5zd2VyOiBDSEFMTEVOR0VT&s=6HegUObq",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=QW5zd2VyOiBDSEFMTEVOR0VT&s=6HegUObq&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 1747534481485842,
+          "studiableContainerType": 1,
+          "studiableContainerId": 738369724,
+          "type": 2,
+          "rank": 11,
+          "creatorId": 188055338,
+          "timestamp": 1666578752,
+          "lastModified": 1666578752,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 0,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "QUIZ: In the following sentence, the underlined phrase or clause may contain emptv words or an unnecessary expletive. Select the answer option that is the best replacement: or. if the underlined text is the best choice, select No change.\n\n Some comedy show guests APPARENTLY BECOME embarrassed because they can't keep up with the\nhost's humorous patter",
+                  "languageCode": "en",
+                  "ttsUrl": null,
+                  "ttsSlowUrl": null,
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 1,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "Answer: BECOME",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=QW5zd2VyOiBCRUNPTUU&s=a06ZEGW8",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=QW5zd2VyOiBCRUNPTUU&s=a06ZEGW8&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 1747534481485843,
+          "studiableContainerType": 1,
+          "studiableContainerId": 738369724,
+          "type": 2,
+          "rank": 12,
+          "creatorId": 188055338,
+          "timestamp": 1666578752,
+          "lastModified": 1666578752,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 0,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "QUIZ: In the following sentence. the underlined phrase or clause may contain empty words or an\nunnecessary expletive. Select the answer option that is the best replacement: or. if the underlined\ntext is the best choice. select No change\n\n Other comedy show guests have good one-liners prepared ahead of time, so IT IS QUITE POSSIBLE FOR THEM to make fun of the host",
+                  "languageCode": "en",
+                  "ttsUrl": null,
+                  "ttsSlowUrl": null,
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 1,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "Answer: THEY ARE ABLE",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=QW5zd2VyOiBUSEVZIEFSRSBBQkxF&s=4XYXeHRw",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=QW5zd2VyOiBUSEVZIEFSRSBBQkxF&s=4XYXeHRw&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 1747534481485844,
+          "studiableContainerType": 1,
+          "studiableContainerId": 738369724,
+          "type": 2,
+          "rank": 13,
+          "creatorId": 188055338,
+          "timestamp": 1666578752,
+          "lastModified": 1666578752,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 0,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "QUIZ: In the following sentence, the underlined phrase or clause may contain empty words or an unnecessary expletive. Select the answer option that is the best replacement: or, if the underlined text is the best choice. select No change\n\nDURING THE NEWS SUMMARY , the host might lampoon the president, lawmakers, and other government officials.",
+                  "languageCode": "en",
+                  "ttsUrl": null,
+                  "ttsSlowUrl": null,
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 1,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "Answer: NO CHANGE",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=QW5zd2VyOiBOTyBDSEFOR0U&s=bIcsx.U8",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=QW5zd2VyOiBOTyBDSEFOR0U&s=bIcsx.U8&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 1747534481485845,
+          "studiableContainerType": 1,
+          "studiableContainerId": 738369724,
+          "type": 2,
+          "rank": 14,
+          "creatorId": 188055338,
+          "timestamp": 1666578752,
+          "lastModified": 1666578752,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 0,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "QUIZ: In the following sentence. the underlined phrase or clause may contain empty words or an\nunnecessary expletive. Select the answer option that is the best replacement; or, if the underlined text is the best choice, select No change.\n\n THE DAILY SHOWS MIGHT POSSIBLY become known as one of the greatest comedy shows of all time.",
+                  "languageCode": "en",
+                  "ttsUrl": null,
+                  "ttsSlowUrl": null,
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 1,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "Answer: THE DAILY SHOW MIGHT",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=QW5zd2VyOiBUSEUgREFJTFkgU0hPVyBNSUdIVA&s=S0swFqQ4",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=QW5zd2VyOiBUSEUgREFJTFkgU0hPVyBNSUdIVA&s=S0swFqQ4&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 1747534481485846,
+          "studiableContainerType": 1,
+          "studiableContainerId": 738369724,
+          "type": 2,
+          "rank": 15,
+          "creatorId": 188055338,
+          "timestamp": 1666578752,
+          "lastModified": 1666578752,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 0,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "QUIZ: In the following sentence. the underlined phrase or clause may contain empty words or an unnecessary expletive. Select the answer option that is the best replacement; or, if the underlined text is the best choice. select No change.\n\n The Daily Show WAS HOSTED by Craig Kilborn for two years before Jon Stewart took over.",
+                  "languageCode": "en",
+                  "ttsUrl": null,
+                  "ttsSlowUrl": null,
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 1,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "answer: NO CHANGE",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=YW5zd2VyOiBOTyBDSEFOR0U&s=Xm9cn9tF",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=YW5zd2VyOiBOTyBDSEFOR0U&s=Xm9cn9tF&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        },
+        {
+          "id": 1747534481485847,
+          "studiableContainerType": 1,
+          "studiableContainerId": 738369724,
+          "type": 2,
+          "rank": 16,
+          "creatorId": 188055338,
+          "timestamp": 1666578752,
+          "lastModified": 1666578752,
+          "isDeleted": false,
+          "cardSides": [
+            {
+              "sideId": 0,
+              "label": "word",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "QUIZ: Whether you like its brand of comedy or not, IT IS DOUBTFUL THAT THE DAILY SHOW WILL DISAPPEAR from our TV screens anytime soon",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=UVVJWjogV2hldGhlciB5b3UgbGlrZSBpdHMgYnJhbmQgb2YgY29tZWR5IG9yIG5vdCwgSVQgSVMgRE9VQlRGVUwgVEhBVCBUSEUgREFJTFkgU0hPVyBXSUxMIERJU0FQUEVBUiBmcm9tIG91ciBUViBzY3JlZW5zIGFueXRpbWUgc29vbg&s=X7D5qv1d",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=UVVJWjogV2hldGhlciB5b3UgbGlrZSBpdHMgYnJhbmQgb2YgY29tZWR5IG9yIG5vdCwgSVQgSVMgRE9VQlRGVUwgVEhBVCBUSEUgREFJTFkgU0hPVyBXSUxMIERJU0FQUEVBUiBmcm9tIG91ciBUViBzY3JlZW5zIGFueXRpbWUgc29vbg&s=X7D5qv1d&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            },
+            {
+              "sideId": 1,
+              "label": "definition",
+              "media": [
+                {
+                  "type": 1,
+                  "plainText": "Answer: THE DAILY SHOW PROBABLY WILL NOT DISAPPEAR",
+                  "languageCode": "en",
+                  "ttsUrl": "/tts/en.mp3?v=14&b=QW5zd2VyOiBUSEUgREFJTFkgU0hPVyBQUk9CQUJMWSBXSUxMIE5PVCBESVNBUFBFQVI&s=wTgIziKZ",
+                  "ttsSlowUrl": "/tts/en.mp3?v=14&b=QW5zd2VyOiBUSEUgREFJTFkgU0hPVyBQUk9CQUJMWSBXSUxMIE5PVCBESVNBUFBFQVI&s=wTgIziKZ&speed=70",
+                  "richText": null
+                }
+              ],
+              "distractors": []
+            }
+          ]
+        }
+      ],
+      "setIdToDiagramImage": {},
+      "accents": {
+        "word": [],
+        "definition": [
+          "—",
+          "•"
+        ]
+      },
+      "diagramImages": [],
+      "editableStudiableItemIds": [],
+      "selectedTerms": {},
+      "starredStudiableItemIds": [],
+      "studiableContainer": {
+        "id": 738369724,
+        "timestamp": 1666578752,
+        "lastModified": 1666578839,
+        "publishedTimestamp": 1666578753,
+        "creatorId": 188055338,
+        "wordLang": "en",
+        "defLang": "en",
+        "title": "ENGL 1301 WORDINESS/ CLUTTER NOTES AND QUIZ",
+        "passwordUse": false,
+        "passwordEdit": false,
+        "accessType": 2,
+        "accessCodePrefix": null,
+        "description": "",
+        "numTerms": 17,
+        "hasImages": false,
+        "parentId": 0,
+        "creationSource": 2,
+        "privacyLockStatus": 0,
+        "hasDiagrams": false,
+        "_webUrl": "https://quizlet.com/738369724/engl-1301-wordiness-clutter-notes-and-quiz-flash-cards/",
+        "_thumbnailUrl": null,
+        "price": null,
+        "mcqCount": 0,
+        "purchasableType": 0
+      },
+      "studiableContainerType": 1,
+      "crossModeResetTimestamp": null
+    },
+    "sessions": {
+      "initialSessions": {
+        "unstarred": null,
+        "starred": null
+      },
+      "personId": "-98741538667784820",
+      "sessionLuid": null
+    },
+    "settings": {
+      "ad": {
+        "adModalShownAt": 1715823927391,
+        "adModalTimesShown": 0,
+        "adsIds": {
+          "sidebarAdsId": null,
+          "footerAdsId": null
+        },
+        "isBrandedContentSet": false,
+        "lastActionTimestamp": null,
+        "shouldShowAd": true,
+        "shouldShowNewStudyBreak": false
+      },
+      "display": {
+        "canEditRichText": false,
+        "hiddenSettings": [
+          8,
+          20,
+          21,
+          31
+        ],
+        "isEmbedding": false,
+        "isOptionsModalOpen": false,
+        "modePath": "/738369724/flashcards",
+        "personId": "-98741538667784820",
+        "shouldHideEmbedControl": false,
+        "shouldShowQChatLink": false,
+        "shouldShowStudyTopNav": true,
+        "starredModePath": "/738369724/flashcards/starred",
+        "studyModeType": 2
+      },
+      "preference": {
+        "acceptsPartialAnswer": false,
+        "advancedAudioSettings": {
+          "wordEnabled": true,
+          "definitionEnabled": true,
+          "slowWordEnabled": false,
+          "slowDefinitionEnabled": false
+        },
+        "answerWith": {
+          "definition": true,
+          "location": true,
+          "term": false
+        },
+        "cardsShuffleSeed": null,
+        "isAudioOn": false,
+        "learnSoundEffectsOn": true,
+        "locationQuestionTypes": [],
+        "promptWith": {
+          "definition": false,
+          "location": false,
+          "term": true
+        },
+        "questionTypes": {
+          "copyAnswer": false,
+          "fillInTheBlank": false,
+          "matching": false,
+          "multipleChoice": false,
+          "multipleChoiceWithNoneOption": false,
+          "revealSelfAssessment": false,
+          "written": false,
+          "spelling": false
+        },
+        "shuffle": false,
+        "smartGrading": true,
+        "sortingOn": false,
+        "spacedRepetitionOn": true,
+        "studyPath": null,
+        "studyPathGoal": null,
+        "studyPathKnowledgeLevel": null,
+        "studyStarredOnly": false,
+        "typoHelpGradingSetting": null,
+        "writtenTypes": null
+      },
+      "abTest": {
+        "shouldShowTestToLearn": false,
+        "shouldShowUnderstandingTask": false
+      }
+    },
+    "metering": {
+      "meteringData": null
+    },
+    "onboarding": {
+      "daysSinceLastVisit": 0
+    }
+  },
+  "spacedRepetition/memoryScoreData": {
+    "answerHistory": [],
+    "educationModalOpen": {
+      "memoryScore": false,
+      "spacedRepetition": false
+    },
+    "hasTriggeredSrsEligibility": null,
+    "isShowingSsrOnCoachmark": false,
+    "memoryScoreData": null,
+    "reviewMode": "non_srs",
+    "shouldSkipOnboarding": true,
+    "wantsScheduledReviewReminders": false
+  }
+}
