@@ -31,6 +31,8 @@ export default function Home() {
       <DefaultSeo {...seoData} />
       <NextSeo {...seoData} />
       <Head>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6710100518502375"
+     crossorigin="anonymous"></script>
         <meta
           name="google-site-verification"
           content="EgrlpsE3eQVqZY9UMz6TLwCUrgYRLVAUv0RMv3aQgio"
@@ -48,7 +50,7 @@ export default function Home() {
       </Head>
       <Header />
       <Main />
-      <footer className="max-w-4xl mx-auto text-sm px-6 py-14 space-y-2">
+      <footer className="max-w-4xl px-6 mx-auto space-y-2 text-sm py-14">
         <p className="text-lg font-bold">Disclaimer</p>
         <p>This website is not affiliated with or endorsed by Quizlet.</p>
         <p>

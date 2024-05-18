@@ -53,7 +53,7 @@ const extractCardData = (parsedData) => {
   if (!dehydratedReduxStateKey) {
     throw new Error("dehydratedReduxStateKey is undefined");
   }
-
+ 
   const state = JSON.parse(dehydratedReduxStateKey);
 
   if (
