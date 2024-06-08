@@ -1,5 +1,6 @@
 import { LuClipboardPaste } from "react-icons/lu";
 import { Button } from "@/components/ui/button";
+import { Loader2 } from "lucide-react";
 import {
   Tooltip,
   TooltipContent,
@@ -12,6 +13,7 @@ export default function Main() {
   const [url, setUrl] = useState("");
   const [pasted, setPasted] = useState(false);
   const [result, setResult] = useState(null);
+  const [loading, setLoading] = useState(false);
 
   // Extract set id from a normal quizlet URL
   function extractSetId(url) {
@@ -21,6 +23,7 @@ export default function Main() {
   }
 
   const fetchQuizletSet = async () => {
+    setLoading(true);
     if (url == null || url == "") {
       return;
     }
@@ -29,6 +32,7 @@ export default function Main() {
       const response = await fetch(`/api/quizlet-set?setId=${setId}`);
       const data = await response.json();
       setResult(data);
+      setLoading(false);
     } catch (error) {
       console.error("Error fetching Quizlet set:", error);
     }
@@ -45,8 +49,8 @@ export default function Main() {
   };
 
   return (
-    <main className="max-w-4xl mx-auto px-4">
-      <h1 className="text-4xl text-center my-4 text-quizlet-light-blue">
+    <main className="max-w-4xl px-4 mx-auto">
+      <h1 className="my-4 text-4xl text-center text-quizlet-light-blue">
         Quizlet Set Fetcher
       </h1>
       <div className="mx-2">
@@ -56,7 +60,7 @@ export default function Main() {
             value={url}
             onChange={(e) => setUrl(e.target.value)}
             placeholder="Enter the Quizlet URL"
-            className="searchInput bg-quizlet-gray bg-opacity-70 rounded-full p-3 px-5 w-full text-gray-300 placeholder:text-gray-500 inline-block"
+            className="inline-block w-full p-3 px-5 text-gray-300 rounded-full searchInput bg-quizlet-gray bg-opacity-70 placeholder:text-gray-500"
           />
 
           <TooltipProvider>
@@ -65,7 +69,7 @@ export default function Main() {
                 <Button
                   onClick={handlePasteFromClipboard}
                   variant="outline"
-                  className="border border-gray-500 hover:border-gray-900 transition flex items-center absolute right-4 top-1 p-2 bg-gray-200 rounded-full"
+                  className="absolute flex items-center p-2 transition bg-gray-200 border border-gray-500 rounded-full hover:border-gray-900 right-4 top-1"
                 >
                   <div className="flex items-center gap-1 px-2 text-quizlet-dark-blue">
                     <LuClipboardPaste />
@@ -79,16 +83,23 @@ export default function Main() {
             </Tooltip>
           </TooltipProvider>
         </div>
-        <Button
-          onClick={fetchQuizletSet}
-          className="rounded-full bg-quizlet-blue w-full mt-4"
-        >
-          <p className="text-[16px]">Fetch Quizlet Set</p>
-        </Button>
+        {loading ? (
+          <Button disabled className="w-full mt-4 rounded-full bg-quizlet-blue">
+            <Loader2 className="w-4 h-4 mr-2 animate-spin" />
+            Please wait
+          </Button>
+        ) : (
+          <Button
+            onClick={fetchQuizletSet}
+            className="w-full mt-4 rounded-full bg-quizlet-blue"
+          >
+            <p className="text-[16px]">Fetch Quizlet Set</p>
+          </Button>
+        )}
 
         <div className="bg-neutral-600 w-full h-[500px] rounded-lg mt-8">
           <pre className="w-full">
-            <code className="w-max" placeholder='fg'>
+            <code className="w-max" placeholder="fg">
               {result && JSON.stringify(result, null, 2)}
             </code>
           </pre>
